@@ -1,0 +1,2001 @@
+driver_id,name,city,signup_date,rating
+1,Driver_1,Toronto,2/8/2021 20:28,4.7
+2,Driver_2,San Francisco,1/16/2022 10:13,4.4
+3,Driver_3,Boston,8/5/2021 18:21,4.8
+4,Driver_4,Toronto,11/18/2023 5:11,5
+5,Driver_5,Calgary,5/16/2021 1:18,4.4
+6,Driver_6,Ottawa,10/18/2022 10:23,4.4
+7,Driver_7,New York,2/16/2021 6:55,5
+8,Driver_8,Toronto,12/6/2021 15:24,4.9
+9,Driver_9,Boston,2/25/2023 1:00,4.3
+10,Driver_10,Ottawa,2/11/2021 5:19,4.8
+11,Driver_11,Calgary,11/5/2021 21:12,4.3
+12,Driver_12,Calgary,10/14/2022 16:49,4.3
+13,Driver_13,Boston,11/29/2022 19:43,4.6
+14,Driver_14,Ottawa,3/9/2022 3:42,3.5
+15,Driver_15,New York,9/6/2021 0:31,3.6
+16,Driver_16,Montreal,6/13/2022 13:27,4.2
+17,Driver_17,San Francisco,8/30/2021 12:41,4
+18,Driver_18,Boston,6/7/2022 21:09,4.7
+19,Driver_19,Toronto,5/25/2021 1:48,4
+20,Driver_20,Montreal,5/31/2021 5:50,3.8
+21,Driver_21,Los Angeles,6/19/2022 7:35,5
+22,Driver_22,Ottawa,2/15/2022 22:03,4.4
+23,Driver_23,New York,12/15/2022 16:36,4.5
+24,Driver_24,Calgary,7/13/2021 21:51,3.8
+25,Driver_25,Montreal,5/3/2021 9:53,4.2
+26,Driver_26,Calgary,4/1/2022 10:28,4.6
+27,Driver_27,Ottawa,7/16/2022 18:43,3.9
+28,Driver_28,Ottawa,10/26/2021 17:02,4.7
+29,Driver_29,Toronto,3/13/2021 4:27,4.2
+30,Driver_30,Boston,3/26/2022 13:09,4.4
+31,Driver_31,Toronto,12/28/2021 15:04,4.2
+32,Driver_32,Toronto,8/14/2022 12:07,5
+33,Driver_33,San Francisco,12/6/2022 8:21,4.5
+34,Driver_34,Los Angeles,9/10/2021 16:11,4
+35,Driver_35,L.A,7/6/2022 21:27,4.9
+36,Driver_36,Boston,11/8/2023 1:56,3.9
+37,Driver_37,San Francisco,12/27/2023 5:45,4.6
+38,Driver_38,Toronto,8/5/2023 6:02,3.5
+39,Driver_39,Chicago,4/10/2023 18:10,3.8
+40,Driver_40,Boston,9/11/2021 20:05,4.6
+41,Driver_41,Vancouver,8/13/2022 11:07,4.9
+42,Driver_42,San Francisco,9/22/2023 4:55,4.6
+43,Driver_43,Calgary,12/8/2021 3:50,4.4
+44,Driver_44,Los Angeles,3/28/2021 21:31,4.3
+45,Driver_45,Boston,2/19/2021 20:47,3.8
+46,Driver_46,Los Angeles,9/16/2022 4:30,4.1
+47,Driver_47,San Francisco,4/13/2021 19:41,4.3
+48,Driver_48,Boston,6/1/2023 2:00,5
+49,Driver_49,Los Angeles,11/27/2021 7:17,4.7
+50,Driver_50,Vancouver,9/7/2022 14:13,3.6
+51,Driver_51,Vancouver,8/10/2021 22:38,4.7
+52,Driver_52,San Francisco,8/5/2021 21:47,4.3
+53,Driver_53,Boston,5/23/2023 1:19,4.2
+54,Driver_54,Calgary,2/13/2022 3:43,4.8
+55,Driver_55,Ottawa,10/28/2022 13:10,5
+56,Driver_56,Ottawa,9/13/2022 10:43,5
+57,Driver_57,Los Angeles,12/7/2021 16:52,4.1
+58,Driver_58,Chicago,3/3/2023 12:31,4.3
+59,Driver_59,Vancouver,5/22/2021 5:20,4.7
+60,Driver_60,New York,6/20/2021 8:00,5
+61,Driver_61,Chicago,9/2/2023 16:53,4.3
+62,Driver_62,Chicago,11/24/2023 2:10,4.4
+63,Driver_63,Montreal,7/16/2023 11:44,3.9
+64,Driver_64,Toronto,8/21/2022 17:09,3.9
+65,Driver_65,Montreal,7/15/2023 16:19,4.9
+66,Driver_66,Vancouver,4/2/2023 22:48,5
+67,Driver_67,S.F,5/10/2023 9:45,4.5
+68,Driver_68,New York,11/23/2023 18:48,5
+69,Driver_69,Toronto,11/26/2023 0:00,4.7
+70,Driver_70,Calgary,2/19/2022 11:57,4.2
+71,Driver_71,Los Angeles,6/23/2021 6:57,4.7
+72,Driver_72,S.F,11/7/2022 9:13,5
+73,Driver_73,Chicago,12/6/2022 20:02,4.5
+74,Driver_74,New York,2/14/2022 3:51,5
+75,Driver_75,Calgary,10/5/2021 12:37,3.2
+76,Driver_76,Calgary,6/15/2021 7:16,4.9
+77,Driver_77,S.F,9/20/2023 13:45,4.5
+78,Driver_78,Calgary,8/5/2023 0:03,4.4
+79,Driver_79,Boston,8/26/2021 10:15,4.5
+80,Driver_80,Los Angeles,9/8/2021 22:59,3.5
+81,Driver_81,Calgary,4/4/2023 21:01,4.4
+82,Driver_82,N.Y,7/20/2023 10:16,4.7
+83,Driver_83,Los Angeles,1/30/2023 0:32,5
+84,Driver_84,New York,6/23/2021 18:43,4.2
+85,Driver_85,L.A,4/23/2022 16:57,4.1
+86,Driver_86,Boston,3/31/2021 23:36,4.2
+87,Driver_87,Boston,6/1/2023 8:35,5
+88,Driver_88,Toronto,5/14/2021 1:23,4.7
+89,Driver_89,Vancouver,4/18/2021 12:25,4.2
+90,Driver_90,Calgary,7/15/2021 8:41,4.8
+91,Driver_91,Chicago,10/22/2023 21:17,4.5
+92,Driver_92,Vancouver,5/5/2023 2:09,5
+93,Driver_93,Chicago,2/16/2022 18:01,4.1
+94,Driver_94,Calgary,8/1/2023 7:27,4.3
+95,Driver_95,Montreal,11/26/2021 0:24,4.3
+96,Driver_96,Calgary,12/8/2023 16:07,3.8
+97,Driver_97,Boston,4/30/2022 5:37,4.6
+98,Driver_98,Montreal,11/10/2023 10:18,4.6
+99,Driver_99,Los Angeles,11/12/2022 13:33,4.5
+100,Driver_100,Calgary,12/3/2022 8:37,4.4
+101,Driver_101,Toronto,1/21/2022 2:35,3.8
+102,Driver_102,Boston,4/10/2021 11:03,4.3
+103,Driver_103,Los Angeles,2/2/2021 16:12,4.3
+104,Driver_104,Ottawa,5/11/2023 11:41,4.1
+105,Driver_105,Boston,7/4/2023 2:38,4.4
+106,Driver_106,Boston,1/12/2021 4:05,4.7
+107,Driver_107,Toronto,9/8/2023 9:13,5
+108,Driver_108,New York,12/22/2021 15:34,4.6
+109,Driver_109,Toronto,2/18/2021 19:09,4.6
+110,Driver_110,Los Angeles,4/21/2021 1:45,4.5
+111,Driver_111,Calgary,1/5/2022 17:27,3.5
+112,Driver_112,S.F,11/6/2023 5:17,4.5
+113,Driver_113,Vancouver,11/29/2021 19:19,4.5
+114,Driver_114,Calgary,7/25/2021 12:56,5
+115,Driver_115,Ottawa,6/15/2023 2:43,4.4
+116,Driver_116,Vancouver,1/13/2022 11:35,4.7
+117,Driver_117,Vancouver,9/25/2022 8:17,4.5
+118,Driver_118,Boston,5/27/2021 12:43,3.9
+119,Driver_119,Toronto,10/21/2023 16:39,5
+120,Driver_120,Montreal,7/5/2022 9:10,4.9
+121,Driver_121,Montreal,10/1/2022 15:00,4.9
+122,Driver_122,Vancouver,3/26/2021 3:38,4
+123,Driver_123,Toronto,4/5/2021 3:48,5
+124,Driver_124,Montreal,6/12/2022 2:07,3.8
+125,Driver_125,Toronto,1/22/2022 6:34,4.8
+126,Driver_126,Boston,10/23/2021 11:30,5
+127,Driver_127,Calgary,11/28/2022 21:31,4
+128,Driver_128,Chicago,10/18/2022 8:53,4.2
+129,Driver_129,Chicago,3/9/2022 16:54,4.5
+130,Driver_130,Vancouver,1/24/2022 1:27,4.2
+131,Driver_131,Toronto,11/20/2022 9:06,3.7
+132,Driver_132,Calgary,6/2/2021 2:18,4.5
+133,Driver_133,New York,10/11/2023 1:43,4
+134,Driver_134,Calgary,1/23/2021 22:12,4.7
+135,Driver_135,Toronto,1/3/2022 4:51,4
+136,Driver_136,Chicago,9/24/2022 8:12,5
+137,Driver_137,Vancouver,1/18/2023 18:20,4.1
+138,Driver_138,Boston,9/15/2022 23:51,4.3
+139,Driver_139,New York,9/13/2021 18:07,4.9
+140,Driver_140,Montreal,1/4/2021 8:21,3.9
+141,Driver_141,Montreal,2/16/2022 23:29,4.6
+142,Driver_142,Vancouver,3/20/2022 2:51,5
+143,Driver_143,Montreal,12/19/2023 2:48,3.7
+144,Driver_144,Calgary,10/26/2023 4:21,4.6
+145,Driver_145,Vancouver,8/29/2021 11:14,4.6
+146,Driver_146,Boston,4/6/2022 22:04,4.9
+147,Driver_147,Boston,4/1/2021 20:24,3.9
+148,Driver_148,Ottawa,4/23/2023 6:30,3.8
+149,Driver_149,New York,5/3/2022 4:02,4.8
+150,Driver_150,New York,3/19/2021 21:26,4.6
+151,Driver_151,Ottawa,1/11/2023 15:57,4.6
+152,Driver_152,Calgary,4/6/2023 1:49,4.7
+153,Driver_153,Chicago,3/30/2021 8:37,4.2
+154,Driver_154,Calgary,5/5/2021 10:46,4.6
+155,Driver_155,Chicago,4/17/2021 10:39,4.6
+156,Driver_156,Ottawa,4/16/2021 13:45,4.1
+157,Driver_157,Boston,9/20/2022 5:50,5
+158,Driver_158,Toronto,6/4/2023 23:02,4.7
+159,Driver_159,Boston,6/19/2023 7:40,3.9
+160,Driver_160,Ottawa,3/3/2021 17:40,4.8
+161,Driver_161,Ottawa,5/8/2021 8:33,4
+162,Driver_162,Montreal,10/19/2023 4:38,4.9
+163,Driver_163,Ottawa,5/29/2023 1:11,5
+164,Driver_164,Calgary,5/7/2022 11:07,4.1
+165,Driver_165,S.F,11/14/2021 7:20,5
+166,Driver_166,Los Angeles,1/6/2022 18:51,4.7
+167,Driver_167,S.F,9/7/2022 19:57,4.9
+168,Driver_168,Chicago,11/10/2023 10:25,5
+169,Driver_169,San Francisco,12/12/2022 6:34,4.4
+170,Driver_170,L.A,4/23/2021 16:36,4.1
+171,Driver_171,N.Y,12/13/2022 22:07,4.1
+172,Driver_172,Ottawa,5/25/2023 13:55,4.1
+173,Driver_173,Toronto,4/24/2021 19:21,4.5
+174,Driver_174,Calgary,11/28/2021 2:58,4.7
+175,Driver_175,Calgary,2/16/2022 23:23,4.6
+176,Driver_176,Chicago,6/27/2022 3:59,4.9
+177,Driver_177,Toronto,1/15/2022 11:34,4.5
+178,Driver_178,Los Angeles,3/19/2022 17:06,5
+179,Driver_179,Chicago,11/12/2022 16:42,4.4
+180,Driver_180,Calgary,12/29/2023 21:52,5
+181,Driver_181,San Francisco,8/9/2023 4:59,4.8
+182,Driver_182,Calgary,1/13/2021 3:39,4.1
+183,Driver_183,Calgary,4/11/2022 1:38,4
+184,Driver_184,Toronto,7/28/2021 14:44,4.7
+185,Driver_185,San Francisco,6/29/2021 7:29,4.4
+186,Driver_186,Toronto,5/10/2023 9:40,4.9
+187,Driver_187,Chicago,2/28/2022 1:52,4.7
+188,Driver_188,San Francisco,7/29/2023 13:41,4.5
+189,Driver_189,Boston,6/17/2022 15:30,4.1
+190,Driver_190,Boston,12/4/2023 23:45,3.7
+191,Driver_191,San Francisco,2/25/2023 3:00,4.3
+192,Driver_192,Vancouver,1/26/2022 2:28,4.9
+193,Driver_193,New York,5/24/2021 9:08,4.6
+194,Driver_194,Montreal,3/6/2022 19:23,3.9
+195,Driver_195,New York,1/6/2021 12:11,4.6
+196,Driver_196,Los Angeles,7/23/2021 5:18,4.7
+197,Driver_197,San Francisco,9/9/2021 0:12,4.1
+198,Driver_198,Vancouver,5/8/2023 0:08,4.6
+199,Driver_199,Montreal,5/22/2023 8:07,4.5
+200,Driver_200,New York,6/23/2021 18:57,3.9
+201,Driver_201,Toronto,12/10/2023 11:04,4.7
+202,Driver_202,Chicago,4/28/2023 13:04,4.8
+203,Driver_203,New York,7/28/2022 13:22,5
+204,Driver_204,Ottawa,5/9/2023 7:37,5
+205,Driver_205,Chicago,10/30/2022 15:36,3.8
+206,Driver_206,Chicago,3/6/2021 23:29,4
+207,Driver_207,San Francisco,7/21/2022 11:11,4.8
+208,Driver_208,N.Y,7/10/2022 20:05,4.8
+209,Driver_209,Boston,11/26/2023 13:17,4.8
+210,Driver_210,Boston,11/3/2023 1:04,5
+211,Driver_211,Toronto,7/4/2022 10:05,4.8
+212,Driver_212,Calgary,9/24/2022 6:50,5
+213,Driver_213,Ottawa,8/29/2021 2:09,5
+214,Driver_214,Boston,9/10/2021 10:30,4.8
+215,Driver_215,Chicago,10/3/2022 11:26,4.3
+216,Driver_216,New York,10/6/2021 15:03,4.9
+217,Driver_217,Los Angeles,10/2/2022 13:46,4.1
+218,Driver_218,Boston,2/19/2022 11:14,4.4
+219,Driver_219,Chicago,12/26/2023 9:32,4.3
+220,Driver_220,Toronto,8/18/2022 6:11,4.5
+221,Driver_221,New York,1/2/2023 4:35,5
+222,Driver_222,Boston,11/7/2021 0:36,3.6
+223,Driver_223,Vancouver,6/28/2022 4:12,4.8
+224,Driver_224,San Francisco,12/20/2021 13:22,3.7
+225,Driver_225,Boston,2/6/2021 18:16,4.3
+226,Driver_226,Boston,9/11/2022 23:53,5
+227,Driver_227,Los Angeles,3/9/2022 19:04,4.5
+228,Driver_228,Toronto,3/10/2022 14:32,4
+229,Driver_229,Los Angeles,9/24/2023 12:10,4.1
+230,Driver_230,Calgary,9/13/2022 21:05,4.8
+231,Driver_231,Calgary,5/30/2022 10:09,4.1
+232,Driver_232,New York,6/29/2021 4:15,4.6
+233,Driver_233,San Francisco,10/5/2021 9:29,4.5
+234,Driver_234,Ottawa,2/17/2022 9:18,4.2
+235,Driver_235,New York,6/18/2021 9:32,5
+236,Driver_236,Ottawa,11/7/2022 1:42,4.8
+237,Driver_237,Los Angeles,5/3/2022 6:44,3.5
+238,Driver_238,Montreal,7/31/2023 17:06,4.6
+239,Driver_239,Calgary,6/29/2021 15:35,4.2
+240,Driver_240,Montreal,6/15/2023 16:45,4.9
+241,Driver_241,Boston,1/31/2022 16:44,4.1
+242,Driver_242,New York,11/9/2022 9:24,4.4
+243,Driver_243,New York,3/19/2023 16:02,4.8
+244,Driver_244,Calgary,12/3/2023 23:53,4.9
+245,Driver_245,Boston,7/20/2022 19:09,3.9
+246,Driver_246,Montreal,4/19/2021 16:48,4.3
+247,Driver_247,Los Angeles,8/27/2023 0:55,4.3
+248,Driver_248,Los Angeles,10/28/2023 12:52,4.2
+249,Driver_249,Toronto,4/12/2022 12:49,5
+250,Driver_250,Calgary,4/26/2022 10:58,4.7
+251,Driver_251,Montreal,5/22/2022 16:58,3.9
+252,Driver_252,Montreal,12/20/2023 1:48,5
+253,Driver_253,San Francisco,5/12/2023 5:59,5
+254,Driver_254,Chicago,10/26/2021 0:19,5
+255,Driver_255,Montreal,10/30/2023 22:21,3.7
+256,Driver_256,Montreal,11/19/2023 4:14,4.3
+257,Driver_257,Chicago,8/15/2023 4:03,5
+258,Driver_258,Ottawa,4/13/2022 12:13,4.1
+259,Driver_259,Montreal,5/2/2023 4:34,4.7
+260,Driver_260,New York,4/18/2022 1:16,4.9
+261,Driver_261,San Francisco,11/23/2021 12:10,4
+262,Driver_262,Montreal,6/20/2023 23:23,4.5
+263,Driver_263,Ottawa,10/15/2023 1:11,2.9
+264,Driver_264,Los Angeles,12/24/2022 8:00,4
+265,Driver_265,Vancouver,11/18/2022 20:54,4.4
+266,Driver_266,Boston,3/6/2023 1:56,3.9
+267,Driver_267,Vancouver,9/21/2021 14:33,5
+268,Driver_268,Toronto,3/17/2022 20:19,3.8
+269,Driver_269,Calgary,10/29/2023 6:15,4.3
+270,Driver_270,Ottawa,6/5/2022 16:43,4.6
+271,Driver_271,Toronto,12/31/2021 20:32,5
+272,Driver_272,San Francisco,12/15/2021 23:12,3.8
+273,Driver_273,Boston,8/17/2021 21:45,5
+274,Driver_274,New York,3/13/2021 18:58,4.5
+275,Driver_275,Boston,1/9/2023 2:22,4
+276,Driver_276,Ottawa,4/24/2021 3:13,4.7
+277,Driver_277,Vancouver,10/6/2022 19:28,4.6
+278,Driver_278,Ottawa,10/30/2021 1:04,4.2
+279,Driver_279,Montreal,2/7/2023 23:43,4.5
+280,Driver_280,Montreal,1/15/2022 0:23,4.3
+281,Driver_281,Chicago,10/17/2023 3:36,4.6
+282,Driver_282,New York,6/15/2021 13:51,4.8
+283,Driver_283,Montreal,12/6/2021 22:59,5
+284,Driver_284,Chicago,12/18/2023 1:28,3.9
+285,Driver_285,Calgary,12/23/2022 15:40,5
+286,Driver_286,New York,5/16/2023 21:35,3.5
+287,Driver_287,Boston,7/8/2021 12:34,4.4
+288,Driver_288,Vancouver,7/27/2021 3:14,4.8
+289,Driver_289,Vancouver,11/4/2023 1:06,4.6
+290,Driver_290,Calgary,5/19/2023 6:14,4.2
+291,Driver_291,Ottawa,5/8/2022 21:43,4.4
+292,Driver_292,Vancouver,8/10/2023 17:20,4.3
+293,Driver_293,Calgary,10/25/2022 22:02,4.2
+294,Driver_294,Calgary,11/24/2022 16:51,4.9
+295,Driver_295,Chicago,1/8/2023 9:08,4.7
+296,Driver_296,Vancouver,2/7/2022 15:21,4.2
+297,Driver_297,Boston,9/18/2023 13:44,4.9
+298,Driver_298,San Francisco,3/21/2023 19:27,4.7
+299,Driver_299,Vancouver,9/1/2023 14:52,4.9
+300,Driver_300,Boston,3/3/2022 13:44,4.8
+301,Driver_301,Vancouver,5/1/2021 8:47,4.1
+302,Driver_302,San Francisco,12/31/2021 6:33,4.2
+303,Driver_303,San Francisco,6/6/2022 17:18,4.9
+304,Driver_304,Los Angeles,4/20/2023 2:20,4.8
+305,Driver_305,Toronto,8/3/2021 22:57,4.5
+306,Driver_306,Chicago,12/26/2021 6:03,4.6
+307,Driver_307,Montreal,12/15/2023 0:19,5
+308,Driver_308,Chicago,11/29/2021 8:44,4.2
+309,Driver_309,Toronto,10/7/2022 11:23,4.8
+310,Driver_310,Montreal,5/30/2022 0:09,4.4
+311,Driver_311,Calgary,12/25/2022 18:55,4.4
+312,Driver_312,Montreal,4/7/2021 17:26,5
+313,Driver_313,Boston,10/15/2022 16:05,4.9
+314,Driver_314,Montreal,6/27/2023 8:03,4.9
+315,Driver_315,New York,6/14/2023 7:17,5
+316,Driver_316,Montreal,1/11/2023 23:05,4.5
+317,Driver_317,New York,7/1/2022 10:31,4.8
+318,Driver_318,San Francisco,8/29/2022 19:45,4.3
+319,Driver_319,Montreal,4/17/2023 2:19,4.7
+320,Driver_320,Calgary,7/27/2023 2:53,4.4
+321,Driver_321,Boston,1/29/2023 10:30,4.5
+322,Driver_322,Boston,2/28/2022 23:45,4.8
+323,Driver_323,Montreal,1/25/2023 10:02,4.1
+324,Driver_324,New York,8/28/2022 1:38,5
+325,Driver_325,Los Angeles,11/6/2023 1:24,4
+326,Driver_326,Montreal,9/14/2021 9:18,3.9
+327,Driver_327,Vancouver,7/18/2021 6:18,5
+328,Driver_328,Ottawa,4/10/2023 17:34,4.9
+329,Driver_329,New York,9/5/2022 2:08,4.8
+330,Driver_330,Ottawa,5/27/2023 18:03,4.8
+331,Driver_331,New York,5/11/2021 9:47,4.5
+332,Driver_332,Montreal,7/30/2021 19:14,4.1
+333,Driver_333,Vancouver,10/10/2021 7:20,4.5
+334,Driver_334,New York,2/9/2022 3:19,4.2
+335,Driver_335,Montreal,5/24/2022 12:35,5
+336,Driver_336,Boston,12/8/2022 8:25,4.4
+337,Driver_337,Los Angeles,6/9/2022 6:55,4.1
+338,Driver_338,Montreal,3/9/2022 6:09,4.3
+339,Driver_339,Montreal,1/27/2022 21:21,4.7
+340,Driver_340,Toronto,1/1/2023 14:18,4.2
+341,Driver_341,New York,4/18/2023 22:59,4.1
+342,Driver_342,New York,6/28/2022 15:28,4.6
+343,Driver_343,Boston,10/7/2023 23:07,4.6
+344,Driver_344,Toronto,10/10/2023 11:10,4.2
+345,Driver_345,New York,2/18/2021 4:52,4.3
+346,Driver_346,Boston,11/6/2021 16:42,4.6
+347,Driver_347,New York,8/24/2023 5:04,3.8
+348,Driver_348,Chicago,1/6/2022 13:36,3.8
+349,Driver_349,Chicago,1/6/2023 15:38,4.1
+350,Driver_350,Toronto,5/27/2023 2:18,4.4
+351,Driver_351,Boston,12/24/2022 9:43,4.7
+352,Driver_352,San Francisco,7/28/2022 1:24,5
+353,Driver_353,Chicago,7/31/2023 5:19,4.9
+354,Driver_354,Ottawa,6/27/2021 22:05,4.4
+355,Driver_355,Chicago,4/29/2022 4:22,4.5
+356,Driver_356,Toronto,6/18/2023 22:55,4
+357,Driver_357,New York,4/30/2022 14:36,4.5
+358,Driver_358,Ottawa,11/19/2023 5:20,4.4
+359,Driver_359,Montreal,9/9/2022 4:20,4.7
+360,Driver_360,Boston,4/29/2021 1:21,4.1
+361,Driver_361,Ottawa,12/9/2023 19:58,4.8
+362,Driver_362,Boston,6/8/2021 7:09,5
+363,Driver_363,San Francisco,11/29/2023 23:01,4.4
+364,Driver_364,Ottawa,7/8/2021 1:15,4.7
+365,Driver_365,Ottawa,3/5/2021 19:10,4.8
+366,Driver_366,L.A,4/8/2023 14:10,4.3
+367,Driver_367,Montreal,10/25/2023 15:18,4.6
+368,Driver_368,Los Angeles,4/18/2021 2:53,4.5
+369,Driver_369,Calgary,10/3/2023 22:09,4.5
+370,Driver_370,Los Angeles,1/20/2021 15:42,4.1
+371,Driver_371,Montreal,2/1/2023 12:02,4.5
+372,Driver_372,Toronto,11/5/2022 10:55,4.7
+373,Driver_373,Los Angeles,9/15/2023 8:19,5
+374,Driver_374,Vancouver,8/26/2021 15:55,5
+375,Driver_375,Montreal,10/1/2021 14:51,5
+376,Driver_376,Calgary,10/8/2023 10:48,4.1
+377,Driver_377,San Francisco,8/15/2023 18:52,4.9
+378,Driver_378,Calgary,1/22/2023 2:05,4.6
+379,Driver_379,Vancouver,11/8/2022 15:23,5
+380,Driver_380,Ottawa,2/21/2022 22:30,4.1
+381,Driver_381,Los Angeles,1/17/2022 8:43,4.1
+382,Driver_382,Toronto,3/10/2022 7:11,4.2
+383,Driver_383,Vancouver,1/14/2022 19:53,3.4
+384,Driver_384,Vancouver,6/5/2023 5:32,4.2
+385,Driver_385,Ottawa,11/4/2023 23:52,4.1
+386,Driver_386,Montreal,6/7/2022 13:46,4.6
+387,Driver_387,New York,2/7/2023 21:04,4.7
+388,Driver_388,Los Angeles,10/10/2021 11:28,5
+389,Driver_389,Vancouver,11/26/2021 12:24,5
+390,Driver_390,Los Angeles,2/6/2022 8:04,4.2
+391,Driver_391,Los Angeles,3/11/2022 10:25,4.1
+392,Driver_392,Ottawa,12/26/2023 6:01,4.7
+393,Driver_393,San Francisco,5/14/2023 9:23,3.8
+394,Driver_394,New York,3/14/2023 13:15,5
+395,Driver_395,Boston,5/13/2021 23:52,5
+396,Driver_396,Boston,9/24/2022 8:44,4.3
+397,Driver_397,Vancouver,5/13/2023 10:28,3.6
+398,Driver_398,Boston,12/9/2023 19:46,5
+399,Driver_399,Vancouver,10/1/2023 9:00,4.4
+400,Driver_400,Vancouver,11/28/2022 5:09,5
+401,Driver_401,New York,5/25/2021 13:16,3.7
+402,Driver_402,San Francisco,12/11/2021 5:42,4.2
+403,Driver_403,Montreal,12/11/2023 15:41,4.5
+404,Driver_404,Boston,4/21/2022 16:11,4.5
+405,Driver_405,Ottawa,7/28/2022 6:04,4.3
+406,Driver_406,Vancouver,5/10/2023 18:58,4.8
+407,Driver_407,Calgary,6/19/2022 0:12,4
+408,Driver_408,Montreal,5/5/2023 23:58,4.4
+409,Driver_409,Los Angeles,7/1/2022 12:26,4.6
+410,Driver_410,Vancouver,2/25/2022 20:29,4.8
+411,Driver_411,San Francisco,1/26/2022 13:00,4.9
+412,Driver_412,Boston,7/7/2021 10:22,3.9
+413,Driver_413,Boston,5/6/2022 4:28,3.7
+414,Driver_414,Toronto,4/13/2023 10:27,5
+415,Driver_415,Chicago,10/25/2021 13:09,4.7
+416,Driver_416,Boston,1/23/2023 4:13,4.1
+417,Driver_417,San Francisco,7/5/2023 21:23,5
+418,Driver_418,Calgary,7/17/2023 1:58,4.6
+419,Driver_419,San Francisco,6/6/2021 3:53,5
+420,Driver_420,Boston,4/6/2022 4:52,4.5
+421,Driver_421,Boston,7/15/2022 14:37,5
+422,Driver_422,Chicago,4/15/2022 13:21,5
+423,Driver_423,New York,4/10/2023 17:59,4.4
+424,Driver_424,Chicago,3/3/2022 3:04,5
+425,Driver_425,New York,3/26/2021 16:52,4.8
+426,Driver_426,Calgary,3/30/2022 19:38,5
+427,Driver_427,Chicago,9/18/2023 21:30,4
+428,Driver_428,Vancouver,6/9/2021 8:44,4.8
+429,Driver_429,New York,6/11/2023 18:39,5
+430,Driver_430,S.F,12/31/2022 4:23,3.6
+431,Driver_431,Vancouver,11/16/2022 5:52,3.9
+432,Driver_432,Los Angeles,10/14/2021 9:34,3.5
+433,Driver_433,New York,1/28/2022 5:04,4.4
+434,Driver_434,Vancouver,6/27/2021 5:28,4.9
+435,Driver_435,Toronto,9/15/2022 11:27,5
+436,Driver_436,Vancouver,4/26/2021 1:59,4.5
+437,Driver_437,Ottawa,9/5/2023 19:26,5
+438,Driver_438,New York,8/24/2021 16:47,3.8
+439,Driver_439,Chicago,5/25/2023 8:10,3.6
+440,Driver_440,S.F,5/13/2021 7:46,4.5
+441,Driver_441,Boston,7/4/2021 0:11,4.7
+442,Driver_442,Calgary,10/9/2022 12:05,4.5
+443,Driver_443,Ottawa,7/16/2023 1:13,3.5
+444,Driver_444,Ottawa,12/17/2021 14:13,4.5
+445,Driver_445,Calgary,8/14/2022 21:31,3.8
+446,Driver_446,Vancouver,11/19/2022 17:50,4.8
+447,Driver_447,S.F,7/4/2023 5:48,4.7
+448,Driver_448,Montreal,4/20/2022 9:24,4
+449,Driver_449,Ottawa,8/23/2023 17:34,4.2
+450,Driver_450,N.Y,8/6/2023 0:41,4
+451,Driver_451,Toronto,11/19/2021 18:53,4.5
+452,Driver_452,Boston,2/16/2022 2:43,5
+453,Driver_453,Toronto,9/1/2021 23:30,4
+454,Driver_454,Boston,9/28/2021 0:14,4.8
+455,Driver_455,Calgary,4/27/2021 14:37,4.2
+456,Driver_456,Chicago,1/5/2021 3:45,4.1
+457,Driver_457,Montreal,12/1/2022 19:59,4.4
+458,Driver_458,Ottawa,12/31/2022 23:36,4
+459,Driver_459,S.F,2/20/2021 16:54,4.2
+460,Driver_460,Boston,3/24/2022 13:19,3.9
+461,Driver_461,S.F,12/29/2023 1:16,5
+462,Driver_462,Vancouver,4/21/2021 13:46,4.5
+463,Driver_463,Boston,2/15/2022 23:18,4.2
+464,Driver_464,Ottawa,10/25/2023 2:41,4.6
+465,Driver_465,Boston,10/23/2022 10:19,4.4
+466,Driver_466,Toronto,4/26/2023 22:45,4.4
+467,Driver_467,Boston,10/4/2023 1:34,4.8
+468,Driver_468,Chicago,2/17/2022 15:29,4.9
+469,Driver_469,Chicago,4/21/2021 22:21,4.2
+470,Driver_470,New York,9/15/2021 18:02,4.2
+471,Driver_471,S.F,7/14/2023 8:50,4.4
+472,Driver_472,Ottawa,3/25/2022 8:10,3.3
+473,Driver_473,Vancouver,7/13/2021 4:14,3.7
+474,Driver_474,Vancouver,12/6/2023 19:46,5
+475,Driver_475,S.F,12/23/2023 23:57,5
+476,Driver_476,Montreal,2/27/2022 22:04,4.4
+477,Driver_477,Calgary,4/19/2023 19:58,4.8
+478,Driver_478,Vancouver,11/12/2022 0:50,4.7
+479,Driver_479,Toronto,7/19/2023 0:25,5
+480,Driver_480,New York,11/3/2022 3:11,5
+481,Driver_481,Los Angeles,7/27/2023 20:04,4.4
+482,Driver_482,S.F,2/10/2021 4:18,4
+483,Driver_483,Toronto,12/22/2021 14:55,3.7
+484,Driver_484,Ottawa,7/2/2023 1:31,4.6
+485,Driver_485,New York,11/11/2023 8:28,4.1
+486,Driver_486,S.F,6/15/2023 4:02,3.8
+487,Driver_487,New York,9/30/2021 3:35,4.2
+488,Driver_488,Vancouver,3/18/2023 4:22,4
+489,Driver_489,Vancouver,3/9/2022 2:25,5
+490,Driver_490,Chicago,6/29/2023 6:40,4.9
+491,Driver_491,Montreal,9/14/2023 2:29,4.5
+492,Driver_492,Vancouver,5/22/2021 17:45,5
+493,Driver_493,Vancouver,6/25/2022 12:55,4.5
+494,Driver_494,Montreal,6/2/2022 18:38,4.1
+495,Driver_495,L.A,11/8/2023 0:23,5
+496,Driver_496,Toronto,9/7/2021 19:59,4.8
+497,Driver_497,Los Angeles,10/2/2022 11:14,4
+498,Driver_498,Vancouver,3/24/2022 17:32,4.4
+499,Driver_499,Montreal,5/5/2023 13:05,4.1
+500,Driver_500,New York,12/8/2022 13:08,3.8
+501,Driver_501,Toronto,5/4/2022 14:02,5
+502,Driver_502,S.F,5/18/2022 4:31,5
+503,Driver_503,Toronto,9/20/2022 20:44,3.8
+504,Driver_504,Calgary,1/2/2021 18:54,4.8
+505,Driver_505,Calgary,12/19/2022 15:43,4.2
+506,Driver_506,Montreal,3/26/2021 4:52,4.3
+507,Driver_507,Boston,3/17/2023 8:49,4.2
+508,Driver_508,Los Angeles,8/26/2023 5:28,4.1
+509,Driver_509,Vancouver,8/30/2023 12:55,4.5
+510,Driver_510,Vancouver,3/22/2021 4:13,4.1
+511,Driver_511,Boston,2/19/2022 20:34,4.6
+512,Driver_512,Calgary,7/23/2021 12:31,4.5
+513,Driver_513,S.F,11/12/2022 14:09,4.4
+514,Driver_514,Vancouver,7/8/2021 15:05,4
+515,Driver_515,New York,9/6/2023 16:55,4.2
+516,Driver_516,Ottawa,1/7/2022 17:39,4.9
+517,Driver_517,Chicago,4/28/2022 17:36,4.8
+518,Driver_518,Calgary,1/22/2021 5:49,4
+519,Driver_519,Calgary,9/26/2022 18:59,4.5
+520,Driver_520,Toronto,12/16/2021 1:26,4.9
+521,Driver_521,Toronto,12/18/2022 20:01,3.7
+522,Driver_522,Toronto,10/4/2023 4:22,4.8
+523,Driver_523,Chicago,2/14/2023 4:47,4.2
+524,Driver_524,San Francisco,3/2/2023 12:07,4.8
+525,Driver_525,San Francisco,10/8/2022 10:36,4.1
+526,Driver_526,Vancouver,1/4/2023 13:37,3.6
+527,Driver_527,Boston,12/11/2022 14:14,3.7
+528,Driver_528,Calgary,8/13/2021 16:38,4.5
+529,Driver_529,Montreal,10/24/2021 2:28,4.6
+530,Driver_530,Ottawa,3/1/2023 12:35,4
+531,Driver_531,Chicago,4/19/2021 10:42,4.8
+532,Driver_532,S.F,10/7/2022 14:10,3.7
+533,Driver_533,Los Angeles,2/28/2023 17:49,4.5
+534,Driver_534,San Francisco,1/4/2021 23:38,3.9
+535,Driver_535,San Francisco,4/9/2022 18:58,4.2
+536,Driver_536,Ottawa,6/20/2023 21:06,4.5
+537,Driver_537,Vancouver,8/19/2021 20:02,4.1
+538,Driver_538,Vancouver,4/17/2023 15:44,4.3
+539,Driver_539,Vancouver,6/21/2022 3:09,5
+540,Driver_540,Los Angeles,5/8/2023 8:58,4.2
+541,Driver_541,Calgary,8/9/2022 23:24,4.9
+542,Driver_542,Vancouver,5/15/2022 20:43,3.9
+543,Driver_543,Boston,12/20/2023 12:37,4.8
+544,Driver_544,Boston,6/8/2023 6:09,5
+545,Driver_545,Montreal,12/29/2021 19:50,3.3
+546,Driver_546,Montreal,3/9/2021 19:17,4.1
+547,Driver_547,L.A,1/5/2023 17:49,4.8
+548,Driver_548,Montreal,8/23/2022 18:03,4.4
+549,Driver_549,Chicago,2/9/2023 11:11,4.7
+550,Driver_550,New York,7/16/2021 2:48,4.2
+551,Driver_551,Calgary,7/6/2023 19:31,4.5
+552,Driver_552,Los Angeles,6/5/2021 21:51,4.4
+553,Driver_553,Vancouver,6/4/2021 21:31,5
+554,Driver_554,Calgary,12/11/2022 19:30,4.6
+555,Driver_555,New York,8/12/2021 22:30,4.7
+556,Driver_556,Montreal,10/15/2023 4:01,4.3
+557,Driver_557,Chicago,4/27/2021 5:47,4.3
+558,Driver_558,Vancouver,2/16/2022 16:45,4.3
+559,Driver_559,Los Angeles,8/27/2023 4:47,4.7
+560,Driver_560,Montreal,10/7/2023 11:39,4.3
+561,Driver_561,Toronto,5/26/2022 9:48,4.6
+562,Driver_562,Calgary,8/14/2022 7:46,5
+563,Driver_563,Los Angeles,9/1/2023 16:46,4.9
+564,Driver_564,Vancouver,4/21/2023 10:32,4.3
+565,Driver_565,New York,8/18/2023 4:33,5
+566,Driver_566,Toronto,12/31/2021 16:52,4.3
+567,Driver_567,San Francisco,12/20/2021 9:18,3.5
+568,Driver_568,Toronto,11/6/2022 3:37,4
+569,Driver_569,Toronto,9/12/2023 11:49,3.6
+570,Driver_570,Toronto,11/21/2022 5:32,4.3
+571,Driver_571,Chicago,12/15/2023 2:14,4.5
+572,Driver_572,San Francisco,2/14/2021 23:13,5
+573,Driver_573,New York,5/19/2022 21:33,4.7
+574,Driver_574,New York,4/1/2022 17:32,4.4
+575,Driver_575,Los Angeles,8/6/2022 7:05,4.9
+576,Driver_576,Montreal,8/15/2021 3:14,3.4
+577,Driver_577,Boston,4/6/2023 3:18,4.6
+578,Driver_578,Montreal,5/30/2023 3:19,4.9
+579,Driver_579,Chicago,9/22/2021 1:26,3.8
+580,Driver_580,Chicago,5/3/2021 16:09,5
+581,Driver_581,Ottawa,8/18/2022 6:17,4.7
+582,Driver_582,Ottawa,11/28/2023 5:06,4.3
+583,Driver_583,Boston,2/13/2023 2:22,4.8
+584,Driver_584,Ottawa,8/11/2021 7:48,5
+585,Driver_585,Boston,12/18/2022 8:54,4.6
+586,Driver_586,San Francisco,12/15/2022 22:01,4.6
+587,Driver_587,San Francisco,11/2/2023 21:37,4.3
+588,Driver_588,New York,12/24/2022 17:53,4.1
+589,Driver_589,San Francisco,11/19/2023 15:09,4.9
+590,Driver_590,Calgary,9/3/2021 9:45,4.1
+591,Driver_591,Toronto,11/18/2022 4:52,4.5
+592,Driver_592,Los Angeles,7/2/2023 18:15,4.3
+593,Driver_593,San Francisco,9/20/2023 13:21,4.7
+594,Driver_594,Montreal,12/9/2023 8:45,4.7
+595,Driver_595,S.F,12/11/2022 16:04,5
+596,Driver_596,San Francisco,11/6/2021 11:20,4.2
+597,Driver_597,Montreal,1/21/2023 15:18,4.4
+598,Driver_598,Toronto,1/4/2022 11:40,4
+599,Driver_599,Montreal,6/8/2023 10:49,4.3
+600,Driver_600,Los Angeles,6/12/2023 22:32,4.7
+601,Driver_601,San Francisco,12/23/2023 7:00,4.9
+602,Driver_602,San Francisco,2/4/2021 1:58,4
+603,Driver_603,Montreal,3/3/2022 9:22,4.9
+604,Driver_604,New York,5/30/2023 3:21,5
+605,Driver_605,New York,8/1/2023 0:28,4.7
+606,Driver_606,Vancouver,3/21/2022 14:05,5
+607,Driver_607,Boston,8/2/2023 1:01,4.1
+608,Driver_608,Los Angeles,12/7/2021 5:04,3.9
+609,Driver_609,Boston,8/23/2023 12:30,3.6
+610,Driver_610,San Francisco,11/19/2023 20:53,5
+611,Driver_611,Chicago,9/3/2023 22:47,4.8
+612,Driver_612,Toronto,9/2/2023 17:20,4.5
+613,Driver_613,New York,4/25/2022 21:51,4.6
+614,Driver_614,Vancouver,2/21/2021 19:55,3.9
+615,Driver_615,Ottawa,7/21/2022 19:00,5
+616,Driver_616,Chicago,5/21/2021 0:24,4.6
+617,Driver_617,San Francisco,5/23/2022 12:58,4.6
+618,Driver_618,Montreal,9/30/2021 20:20,4.9
+619,Driver_619,Boston,7/25/2021 7:16,4.7
+620,Driver_620,Calgary,7/23/2022 8:09,4.6
+621,Driver_621,Calgary,2/19/2023 12:15,4.1
+622,Driver_622,San Francisco,9/13/2021 14:39,4.7
+623,Driver_623,San Francisco,1/19/2023 12:35,5
+624,Driver_624,San Francisco,6/11/2022 4:13,5
+625,Driver_625,Toronto,12/29/2022 12:39,5
+626,Driver_626,Toronto,8/7/2021 15:48,4.2
+627,Driver_627,Boston,11/17/2023 15:10,4
+628,Driver_628,Montreal,5/16/2023 18:07,4.4
+629,Driver_629,Los Angeles,5/21/2021 6:44,4.5
+630,Driver_630,Montreal,1/22/2021 14:55,5
+631,Driver_631,San Francisco,4/14/2023 12:51,3.7
+632,Driver_632,Toronto,12/8/2022 11:39,5
+633,Driver_633,Los Angeles,11/12/2023 4:51,4.4
+634,Driver_634,San Francisco,6/28/2023 1:58,4.3
+635,Driver_635,Montreal,9/19/2023 22:50,4
+636,Driver_636,L.A,6/18/2021 7:26,3.7
+637,Driver_637,Boston,1/3/2023 9:55,4.9
+638,Driver_638,New York,8/21/2023 10:22,4.5
+639,Driver_639,Calgary,5/25/2022 12:57,3.9
+640,Driver_640,Ottawa,12/10/2021 21:10,3.9
+641,Driver_641,Toronto,9/15/2023 1:34,4.3
+642,Driver_642,Vancouver,12/26/2023 2:03,5
+643,Driver_643,San Francisco,10/6/2023 13:24,4.4
+644,Driver_644,Montreal,7/1/2021 5:59,3.7
+645,Driver_645,Chicago,3/12/2021 10:39,4.4
+646,Driver_646,New York,4/18/2022 19:32,4.4
+647,Driver_647,Vancouver,6/30/2021 9:17,3.2
+648,Driver_648,Toronto,12/31/2021 17:58,4.5
+649,Driver_649,Calgary,7/30/2021 17:55,4.4
+650,Driver_650,Montreal,12/6/2022 17:03,4.8
+651,Driver_651,Los Angeles,11/8/2023 13:32,5
+652,Driver_652,Calgary,10/14/2022 2:10,5
+653,Driver_653,Ottawa,8/29/2021 1:01,4.4
+654,Driver_654,Montreal,10/15/2023 9:15,3.9
+655,Driver_655,Toronto,1/31/2023 4:10,5
+656,Driver_656,Ottawa,9/26/2022 23:39,4.5
+657,Driver_657,San Francisco,2/20/2021 19:45,4.5
+658,Driver_658,Los Angeles,12/4/2021 12:24,4.5
+659,Driver_659,Vancouver,11/22/2022 19:27,4.6
+660,Driver_660,Boston,7/18/2022 9:54,4.4
+661,Driver_661,Toronto,12/2/2023 4:00,4.2
+662,Driver_662,Los Angeles,4/26/2023 19:09,4.2
+663,Driver_663,Los Angeles,4/5/2021 1:28,4.5
+664,Driver_664,Montreal,3/5/2022 13:36,4.2
+665,Driver_665,Boston,7/9/2021 18:26,4.1
+666,Driver_666,Vancouver,5/23/2021 9:49,4.6
+667,Driver_667,Boston,9/24/2023 20:28,4.4
+668,Driver_668,Ottawa,2/3/2021 4:15,5
+669,Driver_669,New York,6/3/2022 2:07,3.2
+670,Driver_670,Boston,7/15/2021 14:46,5
+671,Driver_671,Ottawa,11/15/2021 18:37,5
+672,Driver_672,Toronto,5/11/2023 22:21,3.5
+673,Driver_673,Boston,6/30/2023 21:56,4.3
+674,Driver_674,Boston,12/28/2021 22:49,4.3
+675,Driver_675,Los Angeles,8/18/2021 5:13,3.8
+676,Driver_676,Ottawa,1/5/2021 9:43,4.1
+677,Driver_677,S.F,8/13/2021 18:21,3.9
+678,Driver_678,Chicago,4/20/2023 4:41,5
+679,Driver_679,San Francisco,9/29/2021 1:43,5
+680,Driver_680,Toronto,10/24/2023 22:00,5
+681,Driver_681,N.Y,7/24/2021 17:58,4.9
+682,Driver_682,New York,7/11/2022 12:14,3.9
+683,Driver_683,Boston,7/4/2023 18:01,4.2
+684,Driver_684,Los Angeles,1/25/2021 12:21,4.7
+685,Driver_685,Chicago,2/17/2022 5:37,3.9
+686,Driver_686,New York,7/16/2021 21:54,4.9
+687,Driver_687,Montreal,3/29/2023 5:53,4.4
+688,Driver_688,Toronto,4/9/2021 17:36,4.3
+689,Driver_689,Vancouver,11/28/2022 8:54,4.9
+690,Driver_690,Los Angeles,3/9/2023 6:53,4.7
+691,Driver_691,Ottawa,6/19/2021 9:49,4.3
+692,Driver_692,Vancouver,2/22/2023 16:28,5
+693,Driver_693,Boston,8/14/2023 12:50,4
+694,Driver_694,New York,10/21/2023 13:41,4.8
+695,Driver_695,Calgary,4/14/2022 13:35,4.8
+696,Driver_696,Vancouver,9/27/2023 9:28,4.3
+697,Driver_697,New York,4/5/2021 11:44,4.7
+698,Driver_698,Vancouver,9/16/2022 21:22,3.9
+699,Driver_699,Montreal,12/2/2023 19:34,5
+700,Driver_700,Toronto,2/1/2023 14:32,4.4
+701,Driver_701,Vancouver,4/25/2021 3:55,4.2
+702,Driver_702,Toronto,5/16/2022 9:11,5
+703,Driver_703,Ottawa,8/19/2021 10:17,4.1
+704,Driver_704,Toronto,7/16/2021 0:45,3.8
+705,Driver_705,San Francisco,8/28/2023 20:14,3.7
+706,Driver_706,Ottawa,5/2/2023 20:12,4.8
+707,Driver_707,Los Angeles,8/15/2022 17:08,3.9
+708,Driver_708,Ottawa,4/5/2023 4:35,5
+709,Driver_709,San Francisco,12/6/2022 19:44,3.5
+710,Driver_710,Calgary,7/30/2023 11:56,5
+711,Driver_711,Montreal,6/4/2021 1:38,4.6
+712,Driver_712,Toronto,10/15/2023 1:28,4.5
+713,Driver_713,Calgary,12/1/2021 0:38,4.2
+714,Driver_714,Montreal,12/3/2022 11:11,4.7
+715,Driver_715,Boston,10/5/2022 20:05,4.5
+716,Driver_716,Los Angeles,12/6/2022 11:39,5
+717,Driver_717,Montreal,10/9/2022 5:13,4.6
+718,Driver_718,Toronto,5/1/2022 12:38,4.6
+719,Driver_719,Montreal,5/1/2022 11:43,4.3
+720,Driver_720,San Francisco,8/5/2022 10:57,4.5
+721,Driver_721,Chicago,12/3/2023 22:32,4.7
+722,Driver_722,Vancouver,4/15/2021 6:54,3.6
+723,Driver_723,Toronto,5/13/2021 14:36,3.8
+724,Driver_724,Toronto,11/2/2022 21:31,4.9
+725,Driver_725,Toronto,8/2/2022 21:16,4.6
+726,Driver_726,Chicago,5/15/2023 7:00,4.4
+727,Driver_727,N.Y,7/1/2023 1:00,4.5
+728,Driver_728,Calgary,5/23/2023 13:04,4.7
+729,Driver_729,Los Angeles,11/7/2023 19:54,4.2
+730,Driver_730,Toronto,10/1/2022 4:03,4.1
+731,Driver_731,Los Angeles,10/31/2023 13:41,4.6
+732,Driver_732,Montreal,3/21/2021 22:02,4
+733,Driver_733,San Francisco,7/22/2023 16:54,4.7
+734,Driver_734,San Francisco,7/1/2022 6:19,3.6
+735,Driver_735,Toronto,6/17/2023 18:21,5
+736,Driver_736,Calgary,11/27/2021 11:28,4.7
+737,Driver_737,Chicago,10/18/2023 4:54,4.6
+738,Driver_738,Vancouver,12/15/2021 8:27,5
+739,Driver_739,Toronto,6/28/2022 21:11,5
+740,Driver_740,Calgary,7/25/2022 23:40,5
+741,Driver_741,Toronto,3/9/2022 17:46,3.6
+742,Driver_742,Ottawa,12/18/2021 7:49,3.9
+743,Driver_743,Montreal,5/22/2023 10:19,4.2
+744,Driver_744,Ottawa,8/12/2023 3:40,4.5
+745,Driver_745,Calgary,2/10/2021 18:48,4.8
+746,Driver_746,Ottawa,10/19/2023 21:43,4.1
+747,Driver_747,San Francisco,2/14/2021 23:27,4.6
+748,Driver_748,Chicago,3/1/2022 12:15,4.1
+749,Driver_749,San Francisco,6/12/2022 21:34,4.2
+750,Driver_750,Los Angeles,1/10/2021 11:38,3.8
+751,Driver_751,Chicago,8/11/2021 12:48,4
+752,Driver_752,Ottawa,10/19/2023 3:35,3.8
+753,Driver_753,Montreal,4/19/2021 2:19,4
+754,Driver_754,Chicago,9/11/2023 14:21,5
+755,Driver_755,N.Y,5/23/2021 12:58,4
+756,Driver_756,Calgary,12/1/2021 4:44,5
+757,Driver_757,Montreal,10/15/2022 4:29,4.7
+758,Driver_758,Vancouver,6/14/2022 13:31,4.6
+759,Driver_759,Chicago,7/29/2022 20:34,4.1
+760,Driver_760,San Francisco,5/19/2022 21:52,4.9
+761,Driver_761,Ottawa,7/16/2023 4:50,4.2
+762,Driver_762,Toronto,3/23/2021 17:23,4.6
+763,Driver_763,Chicago,9/2/2021 12:39,5
+764,Driver_764,Ottawa,3/19/2021 7:16,4.5
+765,Driver_765,Toronto,2/27/2022 16:43,5
+766,Driver_766,Vancouver,10/26/2023 6:51,4.1
+767,Driver_767,Montreal,1/25/2023 10:46,4.5
+768,Driver_768,Ottawa,11/18/2022 16:36,5
+769,Driver_769,Montreal,3/1/2022 8:23,4.2
+770,Driver_770,Boston,3/7/2023 21:39,5
+771,Driver_771,Toronto,6/21/2022 4:58,4.9
+772,Driver_772,Montreal,6/22/2021 6:16,4.2
+773,Driver_773,San Francisco,11/20/2023 13:47,4.8
+774,Driver_774,Ottawa,1/26/2023 22:59,5
+775,Driver_775,Calgary,11/3/2023 8:30,4.8
+776,Driver_776,San Francisco,3/12/2021 13:16,3.7
+777,Driver_777,Boston,9/7/2022 0:29,4.1
+778,Driver_778,Ottawa,3/27/2021 2:25,4.4
+779,Driver_779,N.Y,11/14/2021 13:26,4.5
+780,Driver_780,San Francisco,11/25/2021 3:22,4.8
+781,Driver_781,Chicago,2/1/2022 22:27,4.6
+782,Driver_782,San Francisco,5/25/2022 17:17,3.8
+783,Driver_783,Toronto,1/13/2021 0:11,4.7
+784,Driver_784,Vancouver,10/31/2022 23:58,4.8
+785,Driver_785,Chicago,7/20/2021 16:23,4.8
+786,Driver_786,Montreal,4/8/2023 8:06,5
+787,Driver_787,Boston,2/17/2023 3:07,4.9
+788,Driver_788,Calgary,11/4/2023 18:38,4.7
+789,Driver_789,Los Angeles,4/22/2021 23:10,4.5
+790,Driver_790,Montreal,3/7/2021 17:08,3.7
+791,Driver_791,Montreal,1/30/2021 2:44,4.7
+792,Driver_792,Vancouver,5/1/2021 22:55,4.6
+793,Driver_793,Los Angeles,6/14/2023 9:51,4.6
+794,Driver_794,Montreal,6/10/2023 17:53,3.9
+795,Driver_795,Montreal,9/22/2023 10:12,4
+796,Driver_796,Montreal,3/26/2022 17:54,5
+797,Driver_797,Toronto,9/22/2022 4:41,4.5
+798,Driver_798,N.Y,5/20/2022 12:14,4.8
+799,Driver_799,Chicago,8/19/2023 5:22,4.5
+800,Driver_800,Vancouver,12/8/2023 6:31,4.5
+801,Driver_801,Los Angeles,5/17/2021 21:43,5
+802,Driver_802,Montreal,6/14/2021 10:51,4.2
+803,Driver_803,Boston,11/8/2022 19:11,4.5
+804,Driver_804,Ottawa,9/15/2022 1:51,4.3
+805,Driver_805,Calgary,5/3/2021 4:10,4.3
+806,Driver_806,Montreal,4/27/2022 23:52,4.3
+807,Driver_807,Los Angeles,12/11/2021 4:48,4.6
+808,Driver_808,Los Angeles,9/19/2021 4:26,4.3
+809,Driver_809,Toronto,3/5/2023 0:11,5
+810,Driver_810,Toronto,4/5/2023 6:22,4.1
+811,Driver_811,Calgary,10/29/2021 5:15,4.4
+812,Driver_812,Los Angeles,6/30/2022 9:56,4.3
+813,Driver_813,Chicago,1/3/2022 0:44,5
+814,Driver_814,Toronto,8/16/2021 11:50,4.6
+815,Driver_815,San Francisco,11/3/2021 10:49,5
+816,Driver_816,Chicago,7/25/2023 19:03,3.8
+817,Driver_817,Chicago,10/16/2023 7:08,4.6
+818,Driver_818,Toronto,10/3/2021 4:29,4.9
+819,Driver_819,Vancouver,12/22/2022 17:25,4.5
+820,Driver_820,Ottawa,6/20/2023 4:08,5
+821,Driver_821,Vancouver,11/25/2023 2:29,4.2
+822,Driver_822,Ottawa,9/26/2023 20:28,5
+823,Driver_823,Ottawa,5/18/2022 2:04,5
+824,Driver_824,Los Angeles,8/23/2021 12:05,4.3
+825,Driver_825,Vancouver,4/17/2021 1:53,4.3
+826,Driver_826,Vancouver,11/18/2022 22:42,5
+827,Driver_827,S.F,3/3/2022 16:34,5
+828,Driver_828,Ottawa,3/29/2021 6:14,4.2
+829,Driver_829,Los Angeles,2/28/2023 2:53,4.3
+830,Driver_830,Toronto,4/28/2022 4:50,4.4
+831,Driver_831,Vancouver,12/4/2022 0:34,3.8
+832,Driver_832,N.Y,3/30/2021 9:00,4
+833,Driver_833,Los Angeles,3/22/2022 23:00,4
+834,Driver_834,Toronto,9/29/2023 10:54,4.1
+835,Driver_835,Toronto,8/14/2023 9:10,4.5
+836,Driver_836,Ottawa,2/27/2023 16:51,4.6
+837,Driver_837,Montreal,12/20/2022 19:08,5
+838,Driver_838,Ottawa,5/12/2023 2:24,4
+839,Driver_839,N.Y,11/30/2022 15:17,5
+840,Driver_840,Ottawa,10/10/2023 14:15,4.4
+841,Driver_841,Boston,5/15/2022 11:23,4.5
+842,Driver_842,Ottawa,1/9/2023 20:44,4.8
+843,Driver_843,Calgary,8/23/2021 8:30,3.9
+844,Driver_844,N.Y,12/1/2022 20:43,4.7
+845,Driver_845,Toronto,6/18/2022 12:17,4.6
+846,Driver_846,Toronto,2/23/2023 18:57,4.7
+847,Driver_847,Chicago,3/2/2021 19:19,4.6
+848,Driver_848,Boston,11/12/2022 0:48,5
+849,Driver_849,Vancouver,3/26/2023 2:41,4.2
+850,Driver_850,Calgary,8/6/2023 7:11,4.2
+851,Driver_851,Chicago,7/20/2022 7:05,4.2
+852,Driver_852,Los Angeles,3/16/2022 11:02,4.2
+853,Driver_853,Montreal,9/28/2022 0:01,4.2
+854,Driver_854,Los Angeles,11/21/2023 15:08,5
+855,Driver_855,Ottawa,3/23/2021 8:19,5
+856,Driver_856,Los Angeles,4/13/2021 9:22,4.2
+857,Driver_857,L.A,5/27/2021 19:26,4.1
+858,Driver_858,Calgary,11/20/2023 19:48,4.7
+859,Driver_859,Montreal,3/18/2022 9:46,4.2
+860,Driver_860,San Francisco,10/17/2023 22:28,4.8
+861,Driver_861,Ottawa,8/22/2021 14:19,4.6
+862,Driver_862,Los Angeles,5/7/2021 14:36,3.7
+863,Driver_863,Ottawa,10/28/2023 21:15,5
+864,Driver_864,Chicago,6/28/2022 10:15,5
+865,Driver_865,San Francisco,10/17/2023 3:29,4.2
+866,Driver_866,Montreal,7/20/2021 7:39,4.3
+867,Driver_867,Ottawa,5/12/2021 14:33,4.6
+868,Driver_868,San Francisco,5/19/2023 6:07,4.7
+869,Driver_869,Montreal,9/27/2023 15:10,4.8
+870,Driver_870,Los Angeles,7/18/2021 12:29,5
+871,Driver_871,Calgary,5/26/2021 4:10,4.4
+872,Driver_872,Montreal,3/1/2023 21:49,4.1
+873,Driver_873,Los Angeles,1/29/2021 7:41,3.8
+874,Driver_874,Los Angeles,4/25/2022 19:21,4.1
+875,Driver_875,Chicago,11/29/2021 17:40,4.5
+876,Driver_876,Los Angeles,1/26/2023 9:29,5
+877,Driver_877,Boston,12/18/2021 22:08,4.2
+878,Driver_878,Chicago,8/29/2021 16:46,4.6
+879,Driver_879,Toronto,4/5/2022 11:55,4.5
+880,Driver_880,Toronto,2/28/2023 16:02,5
+881,Driver_881,Calgary,3/29/2023 22:31,5
+882,Driver_882,N.Y,10/26/2023 6:30,4.2
+883,Driver_883,Los Angeles,8/19/2023 1:52,4.3
+884,Driver_884,Chicago,7/17/2023 18:57,5
+885,Driver_885,Montreal,8/28/2021 14:57,4.8
+886,Driver_886,Chicago,10/8/2021 22:25,5
+887,Driver_887,Ottawa,9/15/2021 3:44,4.8
+888,Driver_888,Vancouver,3/9/2021 20:58,4.3
+889,Driver_889,Montreal,7/20/2022 22:03,4.8
+890,Driver_890,Boston,11/22/2022 0:55,5
+891,Driver_891,Ottawa,3/19/2022 14:52,4.9
+892,Driver_892,Vancouver,12/30/2021 12:15,4.8
+893,Driver_893,Calgary,1/7/2022 12:50,5
+894,Driver_894,San Francisco,12/30/2022 14:10,5
+895,Driver_895,Boston,7/26/2022 10:06,5
+896,Driver_896,Ottawa,11/16/2022 10:39,4.8
+897,Driver_897,Vancouver,3/14/2022 17:12,4.4
+898,Driver_898,Montreal,2/21/2023 5:43,4.6
+899,Driver_899,Calgary,10/13/2022 8:48,5
+900,Driver_900,Chicago,11/7/2021 5:16,4.1
+901,Driver_901,Ottawa,8/3/2021 23:52,4.7
+902,Driver_902,San Francisco,3/23/2021 1:24,4.3
+903,Driver_903,Vancouver,7/31/2022 15:47,4.5
+904,Driver_904,Calgary,6/9/2021 8:49,5
+905,Driver_905,Calgary,7/13/2021 16:19,4.6
+906,Driver_906,San Francisco,5/11/2021 7:05,4.5
+907,Driver_907,Chicago,2/28/2022 18:23,3.8
+908,Driver_908,Vancouver,3/9/2023 11:10,4.9
+909,Driver_909,Chicago,11/11/2022 14:09,4.8
+910,Driver_910,Toronto,12/11/2021 22:10,5
+911,Driver_911,Vancouver,6/28/2022 1:28,4.3
+912,Driver_912,N.Y,10/7/2022 12:28,4.6
+913,Driver_913,New York,9/8/2022 20:52,4.6
+914,Driver_914,Calgary,8/4/2022 22:17,5
+915,Driver_915,Boston,8/23/2022 21:18,4.5
+916,Driver_916,Toronto,8/6/2022 9:45,4.6
+917,Driver_917,Boston,2/13/2021 18:54,4.8
+918,Driver_918,Los Angeles,6/3/2021 22:05,4.6
+919,Driver_919,Los Angeles,8/15/2021 21:06,4.3
+920,Driver_920,Chicago,3/1/2021 12:02,4.6
+921,Driver_921,San Francisco,1/4/2023 22:23,5
+922,Driver_922,Chicago,12/30/2022 17:41,4
+923,Driver_923,Vancouver,8/14/2023 21:50,4.6
+924,Driver_924,New York,5/4/2021 1:45,4.1
+925,Driver_925,New York,2/2/2022 13:32,5
+926,Driver_926,Boston,8/21/2021 6:29,3.7
+927,Driver_927,Calgary,8/4/2023 20:41,4.2
+928,Driver_928,Calgary,10/20/2022 12:04,4.7
+929,Driver_929,Toronto,3/24/2022 13:12,5
+930,Driver_930,Boston,4/13/2022 19:43,4.5
+931,Driver_931,Toronto,3/16/2021 4:13,4.2
+932,Driver_932,Boston,10/15/2022 4:13,5
+933,Driver_933,Ottawa,12/12/2022 2:25,3.8
+934,Driver_934,Toronto,6/22/2021 5:04,3.4
+935,Driver_935,Vancouver,7/17/2023 0:02,4.7
+936,Driver_936,Calgary,1/26/2021 12:45,4.2
+937,Driver_937,Calgary,6/13/2023 7:19,4
+938,Driver_938,Boston,8/12/2021 0:55,4.9
+939,Driver_939,San Francisco,10/29/2022 19:11,4.6
+940,Driver_940,New York,8/14/2023 1:45,4.2
+941,Driver_941,Los Angeles,1/9/2022 16:53,3.9
+942,Driver_942,Ottawa,10/10/2022 2:45,4.9
+943,Driver_943,Chicago,10/30/2023 1:33,4.8
+944,Driver_944,Toronto,3/25/2023 4:55,4.5
+945,Driver_945,Los Angeles,4/16/2021 3:16,5
+946,Driver_946,Calgary,4/26/2023 4:50,4
+947,Driver_947,Calgary,2/28/2023 13:32,3.7
+948,Driver_948,Calgary,2/1/2021 14:07,4.2
+949,Driver_949,Montreal,1/1/2023 7:54,4.5
+950,Driver_950,New York,9/15/2023 11:31,4.6
+951,Driver_951,Montreal,8/3/2022 21:43,4.4
+952,Driver_952,San Francisco,1/26/2021 5:33,4.7
+953,Driver_953,Los Angeles,4/15/2021 22:48,3.9
+954,Driver_954,Los Angeles,1/10/2022 13:49,5
+955,Driver_955,Toronto,6/23/2023 22:55,4.5
+956,Driver_956,L.A,7/27/2021 5:52,5
+957,Driver_957,New York,7/2/2022 6:39,4.7
+958,Driver_958,Calgary,6/10/2022 21:57,4.7
+959,Driver_959,Chicago,11/30/2023 14:48,4.8
+960,Driver_960,Vancouver,12/17/2023 5:59,4.7
+961,Driver_961,Vancouver,9/9/2023 8:49,4.8
+962,Driver_962,Chicago,7/29/2021 11:40,5
+963,Driver_963,Toronto,12/12/2022 23:31,4.6
+964,Driver_964,New York,4/1/2022 20:19,4.9
+965,Driver_965,Boston,3/10/2021 1:12,4.5
+966,Driver_966,Boston,3/7/2021 2:22,5
+967,Driver_967,Los Angeles,4/27/2022 16:28,4.2
+968,Driver_968,Calgary,9/11/2022 14:52,5
+969,Driver_969,Calgary,1/6/2023 9:37,4.5
+970,Driver_970,San Francisco,2/26/2021 21:19,3.8
+971,Driver_971,Boston,3/21/2022 10:59,4.6
+972,Driver_972,Los Angeles,3/16/2021 6:15,4.2
+973,Driver_973,Los Angeles,3/1/2022 10:15,4.9
+974,Driver_974,Toronto,7/26/2022 16:44,4.2
+975,Driver_975,Montreal,9/14/2022 9:53,4.3
+976,Driver_976,Vancouver,8/24/2022 15:09,3.6
+977,Driver_977,Los Angeles,10/18/2021 5:03,4.3
+978,Driver_978,Vancouver,12/12/2023 2:11,3.3
+979,Driver_979,Vancouver,7/25/2022 15:41,3.7
+980,Driver_980,Calgary,2/19/2022 8:04,4.9
+981,Driver_981,Toronto,10/22/2022 10:29,4.9
+982,Driver_982,Toronto,10/31/2022 22:11,4.7
+983,Driver_983,Ottawa,10/8/2021 7:54,4
+984,Driver_984,Calgary,4/2/2022 8:24,4.5
+985,Driver_985,Los Angeles,6/9/2021 9:07,4.5
+986,Driver_986,Toronto,5/25/2022 9:44,3.9
+987,Driver_987,San Francisco,4/22/2022 2:59,5
+988,Driver_988,Vancouver,7/26/2023 3:21,4.9
+989,Driver_989,Montreal,9/16/2021 20:58,4.4
+990,Driver_990,Vancouver,7/1/2022 2:37,4.5
+991,Driver_991,Vancouver,3/7/2021 19:06,4.6
+992,Driver_992,Los Angeles,8/14/2023 3:19,3.5
+993,Driver_993,Montreal,3/3/2022 12:09,4.4
+994,Driver_994,New York,4/27/2021 13:44,4.2
+995,Driver_995,Montreal,7/19/2022 9:13,4
+996,Driver_996,Calgary,11/22/2023 10:15,4.4
+997,Driver_997,Chicago,2/18/2021 9:00,5
+998,Driver_998,Chicago,8/2/2023 19:57,4.8
+999,Driver_999,Vancouver,2/24/2021 1:23,4.2
+1000,Driver_1000,Chicago,4/15/2021 10:38,4.8
+1001,Driver_1001,Boston,9/30/2023 5:24,5
+1002,Driver_1002,Los Angeles,7/17/2022 13:57,5
+1003,Driver_1003,Montreal,6/1/2023 4:24,4.5
+1004,Driver_1004,New York,7/29/2023 23:34,4.2
+1005,Driver_1005,Chicago,11/21/2023 21:16,4.8
+1006,Driver_1006,Vancouver,7/31/2022 6:33,4.7
+1007,Driver_1007,Los Angeles,11/21/2022 15:15,4.9
+1008,Driver_1008,Toronto,6/11/2023 13:21,4.8
+1009,Driver_1009,Chicago,4/3/2023 11:41,5
+1010,Driver_1010,Los Angeles,9/11/2022 7:47,4.2
+1011,Driver_1011,Los Angeles,10/7/2023 1:22,5
+1012,Driver_1012,San Francisco,1/23/2022 18:11,4.6
+1013,Driver_1013,Toronto,2/10/2021 6:07,5
+1014,Driver_1014,Chicago,2/15/2023 5:42,4.2
+1015,Driver_1015,Calgary,8/25/2022 3:56,5
+1016,Driver_1016,Calgary,7/2/2021 22:26,4.6
+1017,Driver_1017,San Francisco,2/9/2022 8:18,4.2
+1018,Driver_1018,Vancouver,11/30/2021 7:45,4.3
+1019,Driver_1019,Ottawa,3/20/2022 15:04,4.3
+1020,Driver_1020,Vancouver,11/7/2021 23:11,4.7
+1021,Driver_1021,Toronto,7/30/2021 20:19,4.8
+1022,Driver_1022,Toronto,12/4/2022 5:22,4.2
+1023,Driver_1023,Chicago,11/23/2022 10:56,4.5
+1024,Driver_1024,Toronto,11/26/2023 8:09,5
+1025,Driver_1025,Los Angeles,11/4/2023 10:52,5
+1026,Driver_1026,Los Angeles,4/11/2021 21:06,4.7
+1027,Driver_1027,Calgary,4/23/2023 5:36,4.5
+1028,Driver_1028,San Francisco,4/11/2022 23:11,4.6
+1029,Driver_1029,Chicago,12/24/2023 18:03,4.8
+1030,Driver_1030,Chicago,7/16/2022 13:24,4
+1031,Driver_1031,Calgary,12/15/2021 8:20,4.4
+1032,Driver_1032,Toronto,11/9/2021 5:05,3.7
+1033,Driver_1033,Chicago,1/3/2022 18:09,4.7
+1034,Driver_1034,Vancouver,2/10/2021 19:56,4.8
+1035,Driver_1035,Los Angeles,5/11/2023 15:24,4.3
+1036,Driver_1036,Ottawa,7/28/2022 2:00,5
+1037,Driver_1037,Vancouver,5/7/2023 22:53,3.9
+1038,Driver_1038,Chicago,8/9/2023 15:05,3.8
+1039,Driver_1039,Toronto,4/13/2021 3:16,4.6
+1040,Driver_1040,San Francisco,9/11/2022 12:28,5
+1041,Driver_1041,Vancouver,3/28/2023 15:21,5
+1042,Driver_1042,Montreal,9/29/2022 0:47,4.3
+1043,Driver_1043,Ottawa,4/25/2021 13:37,5
+1044,Driver_1044,Chicago,5/8/2022 11:38,4.5
+1045,Driver_1045,Toronto,12/1/2022 0:15,4.4
+1046,Driver_1046,Vancouver,11/23/2023 12:18,4.9
+1047,Driver_1047,Calgary,6/20/2022 4:26,4.8
+1048,Driver_1048,Chicago,5/7/2023 10:04,3.7
+1049,Driver_1049,Ottawa,10/10/2021 16:04,5
+1050,Driver_1050,Chicago,11/4/2022 1:10,5
+1051,Driver_1051,Calgary,3/28/2021 1:56,4.2
+1052,Driver_1052,Toronto,3/16/2023 20:14,4.7
+1053,Driver_1053,Chicago,4/18/2022 10:35,4.7
+1054,Driver_1054,Chicago,9/9/2021 14:33,4.6
+1055,Driver_1055,Los Angeles,12/17/2021 6:08,4.2
+1056,Driver_1056,Los Angeles,3/18/2023 1:54,4.2
+1057,Driver_1057,San Francisco,5/3/2021 12:06,4.5
+1058,Driver_1058,San Francisco,11/1/2021 22:39,5
+1059,Driver_1059,Calgary,3/3/2022 8:16,4.8
+1060,Driver_1060,Chicago,8/29/2023 22:31,4.3
+1061,Driver_1061,San Francisco,8/13/2023 11:32,4.9
+1062,Driver_1062,Calgary,5/26/2021 3:15,3.1
+1063,Driver_1063,Calgary,9/23/2023 17:44,5
+1064,Driver_1064,Chicago,7/9/2023 8:13,3.6
+1065,Driver_1065,Ottawa,8/28/2021 12:46,4.3
+1066,Driver_1066,Chicago,10/21/2023 7:20,3.9
+1067,Driver_1067,Ottawa,7/30/2023 1:12,3.9
+1068,Driver_1068,Los Angeles,5/26/2023 13:12,5
+1069,Driver_1069,New York,2/14/2021 1:50,4.3
+1070,Driver_1070,Toronto,3/12/2021 14:56,4.7
+1071,Driver_1071,Ottawa,2/16/2022 3:05,4.5
+1072,Driver_1072,Boston,6/8/2023 18:49,4.7
+1073,Driver_1073,Montreal,8/19/2023 4:45,4.5
+1074,Driver_1074,New York,2/13/2023 16:12,3.9
+1075,Driver_1075,Calgary,3/26/2022 23:44,5
+1076,Driver_1076,San Francisco,1/21/2023 5:29,4.3
+1077,Driver_1077,Boston,12/1/2023 2:18,3.7
+1078,Driver_1078,Montreal,4/8/2022 1:08,4.3
+1079,Driver_1079,Vancouver,4/24/2021 8:37,5
+1080,Driver_1080,New York,9/3/2021 13:39,4.9
+1081,Driver_1081,Vancouver,10/8/2022 15:30,4.3
+1082,Driver_1082,Vancouver,12/23/2022 11:39,4.3
+1083,Driver_1083,Boston,6/13/2022 11:17,4.3
+1084,Driver_1084,Ottawa,8/12/2021 4:21,5
+1085,Driver_1085,Los Angeles,5/12/2022 0:58,4.7
+1086,Driver_1086,Los Angeles,9/12/2022 9:13,4.7
+1087,Driver_1087,Chicago,7/30/2022 14:44,5
+1088,Driver_1088,Calgary,5/23/2023 11:52,4.6
+1089,Driver_1089,Toronto,5/11/2022 17:30,4.4
+1090,Driver_1090,Boston,12/26/2022 15:21,4.4
+1091,Driver_1091,Toronto,2/20/2022 12:04,4.5
+1092,Driver_1092,Vancouver,1/21/2022 3:05,4.5
+1093,Driver_1093,Chicago,5/31/2021 9:24,4.9
+1094,Driver_1094,New York,3/27/2022 19:53,4.5
+1095,Driver_1095,Montreal,8/14/2023 22:56,4.9
+1096,Driver_1096,Montreal,1/21/2022 16:11,4.5
+1097,Driver_1097,Chicago,5/24/2022 15:41,4.5
+1098,Driver_1098,Ottawa,5/1/2022 18:51,3.5
+1099,Driver_1099,Boston,9/5/2021 12:42,5
+1100,Driver_1100,Vancouver,3/11/2023 14:19,4.7
+1101,Driver_1101,Vancouver,2/14/2023 19:06,5
+1102,Driver_1102,San Francisco,2/12/2023 15:18,3.1
+1103,Driver_1103,New York,5/20/2021 21:16,5
+1104,Driver_1104,Montreal,2/25/2023 4:20,4.4
+1105,Driver_1105,Vancouver,1/9/2022 23:00,5
+1106,Driver_1106,Boston,6/26/2023 4:38,4
+1107,Driver_1107,Los Angeles,3/17/2021 14:06,4.8
+1108,Driver_1108,New York,3/14/2022 1:43,4
+1109,Driver_1109,Vancouver,7/18/2023 5:06,4.2
+1110,Driver_1110,Vancouver,3/20/2022 21:28,5
+1111,Driver_1111,Calgary,1/13/2021 16:52,4.4
+1112,Driver_1112,Toronto,11/1/2022 10:09,4.6
+1113,Driver_1113,Chicago,2/15/2022 20:15,4.9
+1114,Driver_1114,Los Angeles,9/19/2022 10:24,4.7
+1115,Driver_1115,Los Angeles,3/12/2021 6:45,4.6
+1116,Driver_1116,Montreal,3/21/2021 11:17,4.7
+1117,Driver_1117,Ottawa,5/23/2023 18:03,5
+1118,Driver_1118,Boston,7/18/2022 3:51,4.5
+1119,Driver_1119,Calgary,3/25/2022 7:51,4.6
+1120,Driver_1120,Toronto,8/24/2022 4:07,5
+1121,Driver_1121,Calgary,12/1/2022 14:25,5
+1122,Driver_1122,Calgary,3/11/2022 12:44,5
+1123,Driver_1123,Ottawa,11/23/2023 23:05,4.8
+1124,Driver_1124,Ottawa,7/4/2021 13:35,3.9
+1125,Driver_1125,Chicago,5/31/2021 4:32,5
+1126,Driver_1126,Montreal,8/3/2022 17:50,3.9
+1127,Driver_1127,Los Angeles,5/17/2023 13:28,4.7
+1128,Driver_1128,Los Angeles,8/13/2021 2:40,4.1
+1129,Driver_1129,Boston,7/25/2023 21:26,4.5
+1130,Driver_1130,Calgary,9/16/2022 12:47,4.7
+1131,Driver_1131,Calgary,3/4/2021 12:48,4.7
+1132,Driver_1132,New York,3/2/2021 10:49,4.7
+1133,Driver_1133,Chicago,6/2/2022 8:39,5
+1134,Driver_1134,Vancouver,3/18/2023 18:07,4.7
+1135,Driver_1135,Vancouver,8/20/2021 8:54,4.4
+1136,Driver_1136,Ottawa,3/12/2023 19:26,5
+1137,Driver_1137,Chicago,5/25/2022 11:27,5
+1138,Driver_1138,Ottawa,5/10/2022 19:39,3.9
+1139,Driver_1139,Chicago,9/3/2022 10:24,4.8
+1140,Driver_1140,Ottawa,4/10/2022 20:15,4.9
+1141,Driver_1141,Ottawa,6/7/2022 12:54,4.4
+1142,Driver_1142,Calgary,3/3/2023 19:31,5
+1143,Driver_1143,Calgary,1/31/2023 22:48,4.4
+1144,Driver_1144,Ottawa,4/11/2022 17:00,4.6
+1145,Driver_1145,Vancouver,1/26/2021 20:16,4.4
+1146,Driver_1146,Los Angeles,5/30/2022 13:30,4.5
+1147,Driver_1147,Toronto,10/10/2022 1:44,4
+1148,Driver_1148,Ottawa,4/23/2022 23:03,3.8
+1149,Driver_1149,New York,7/17/2023 6:24,5
+1150,Driver_1150,Vancouver,2/17/2022 11:41,4.1
+1151,Driver_1151,Ottawa,6/17/2023 7:46,4
+1152,Driver_1152,Boston,3/21/2021 18:39,3.4
+1153,Driver_1153,Ottawa,1/17/2023 8:25,4.2
+1154,Driver_1154,Chicago,3/26/2023 8:47,3.8
+1155,Driver_1155,Ottawa,8/14/2022 14:31,5
+1156,Driver_1156,Chicago,11/24/2023 11:20,5
+1157,Driver_1157,Boston,2/19/2021 1:02,4.2
+1158,Driver_1158,Ottawa,12/25/2023 5:18,5
+1159,Driver_1159,Toronto,10/24/2021 8:57,5
+1160,Driver_1160,New York,11/17/2022 3:06,4.3
+1161,Driver_1161,Los Angeles,10/13/2022 13:15,3.3
+1162,Driver_1162,Chicago,10/4/2022 12:16,5
+1163,Driver_1163,Boston,9/30/2022 11:58,3.8
+1164,Driver_1164,Calgary,8/8/2023 21:33,3.7
+1165,Driver_1165,Vancouver,4/7/2021 18:00,5
+1166,Driver_1166,Chicago,3/17/2023 17:54,5
+1167,Driver_1167,Boston,5/22/2023 7:22,5
+1168,Driver_1168,Los Angeles,10/26/2023 17:36,4.8
+1169,Driver_1169,Vancouver,3/28/2023 7:12,4.8
+1170,Driver_1170,Montreal,5/3/2022 9:32,4.9
+1171,Driver_1171,Chicago,12/16/2022 1:29,4.9
+1172,Driver_1172,Calgary,6/16/2022 18:52,4.6
+1173,Driver_1173,Calgary,7/5/2022 8:46,4.6
+1174,Driver_1174,S.F,8/6/2023 17:18,4.5
+1175,Driver_1175,Vancouver,10/26/2021 16:07,4.1
+1176,Driver_1176,Boston,3/10/2022 10:06,4.4
+1177,Driver_1177,Calgary,4/9/2022 16:51,3.7
+1178,Driver_1178,Boston,4/8/2022 7:52,4.5
+1179,Driver_1179,San Francisco,1/1/2024 0:36,4
+1180,Driver_1180,Boston,12/9/2023 6:00,3.9
+1181,Driver_1181,Vancouver,5/8/2022 12:08,4.6
+1182,Driver_1182,Vancouver,6/26/2022 20:19,5
+1183,Driver_1183,Calgary,3/1/2022 19:14,5
+1184,Driver_1184,San Francisco,7/9/2021 7:47,3.7
+1185,Driver_1185,Ottawa,11/18/2023 2:18,4
+1186,Driver_1186,Calgary,8/13/2022 20:01,5
+1187,Driver_1187,Montreal,6/21/2022 3:33,4
+1188,Driver_1188,Chicago,3/28/2022 4:51,4.4
+1189,Driver_1189,New York,3/23/2022 19:38,4.8
+1190,Driver_1190,Toronto,6/23/2022 1:22,4
+1191,Driver_1191,Vancouver,10/17/2023 0:24,4.6
+1192,Driver_1192,San Francisco,1/15/2023 5:22,3.8
+1193,Driver_1193,Boston,11/10/2021 21:38,4.2
+1194,Driver_1194,Calgary,2/26/2022 4:33,4.7
+1195,Driver_1195,Calgary,12/18/2023 11:08,3.7
+1196,Driver_1196,San Francisco,8/2/2021 5:54,4.7
+1197,Driver_1197,Toronto,8/15/2023 10:06,4.5
+1198,Driver_1198,Ottawa,1/7/2022 17:04,4.8
+1199,Driver_1199,Boston,3/20/2021 20:40,4.6
+1200,Driver_1200,Calgary,12/17/2021 13:38,5
+1201,Driver_1201,Boston,3/23/2021 13:00,4.6
+1202,Driver_1202,Toronto,10/5/2022 0:59,4.3
+1203,Driver_1203,Los Angeles,1/4/2023 20:29,4.6
+1204,Driver_1204,Toronto,11/25/2023 4:40,4.8
+1205,Driver_1205,Chicago,1/9/2021 1:10,4.5
+1206,Driver_1206,Calgary,9/3/2021 8:28,4.5
+1207,Driver_1207,Montreal,10/12/2023 5:36,4.1
+1208,Driver_1208,Vancouver,1/12/2023 16:34,4.2
+1209,Driver_1209,Boston,3/23/2022 5:16,3.8
+1210,Driver_1210,Los Angeles,3/20/2022 9:03,5
+1211,Driver_1211,New York,5/19/2021 23:20,3.9
+1212,Driver_1212,Ottawa,12/27/2021 17:47,4.2
+1213,Driver_1213,Calgary,2/27/2021 22:34,4.1
+1214,Driver_1214,Chicago,10/12/2022 3:52,4.9
+1215,Driver_1215,Chicago,2/26/2021 10:50,4.4
+1216,Driver_1216,Montreal,2/9/2023 13:15,5
+1217,Driver_1217,Chicago,3/26/2022 16:06,4.2
+1218,Driver_1218,New York,1/15/2021 9:30,4.6
+1219,Driver_1219,S.F,6/2/2023 7:09,4.1
+1220,Driver_1220,Ottawa,6/16/2021 16:27,5
+1221,Driver_1221,L.A,3/19/2022 1:13,3.9
+1222,Driver_1222,Vancouver,9/24/2023 5:51,4.7
+1223,Driver_1223,Calgary,3/26/2023 12:00,4.8
+1224,Driver_1224,Vancouver,7/28/2021 11:20,4.7
+1225,Driver_1225,Calgary,12/29/2022 1:04,4.4
+1226,Driver_1226,S.F,10/27/2021 12:31,4.4
+1227,Driver_1227,Toronto,5/29/2022 16:47,4.5
+1228,Driver_1228,Chicago,12/14/2022 21:34,4.4
+1229,Driver_1229,S.F,10/17/2021 6:00,5
+1230,Driver_1230,New York,6/8/2022 16:27,5
+1231,Driver_1231,S.F,6/2/2023 0:25,4.2
+1232,Driver_1232,Boston,9/30/2021 14:55,3.8
+1233,Driver_1233,Ottawa,9/20/2023 5:25,4.5
+1234,Driver_1234,Montreal,10/27/2022 9:55,5
+1235,Driver_1235,Calgary,5/25/2022 9:59,4.1
+1236,Driver_1236,Toronto,9/15/2022 16:08,5
+1237,Driver_1237,Toronto,10/15/2021 1:08,5
+1238,Driver_1238,Chicago,1/12/2023 16:46,4.2
+1239,Driver_1239,Los Angeles,1/21/2022 7:51,4.8
+1240,Driver_1240,New York,2/10/2022 2:46,5
+1241,Driver_1241,Montreal,1/1/2022 20:52,4.3
+1242,Driver_1242,Vancouver,2/19/2022 18:16,4.4
+1243,Driver_1243,Los Angeles,4/15/2022 1:21,4.2
+1244,Driver_1244,Ottawa,6/9/2023 22:24,4
+1245,Driver_1245,New York,2/11/2022 7:24,4.2
+1246,Driver_1246,Los Angeles,12/13/2023 4:17,3.9
+1247,Driver_1247,Boston,4/7/2021 12:09,4.5
+1248,Driver_1248,Toronto,12/24/2022 23:10,4.1
+1249,Driver_1249,S.F,9/6/2021 2:40,4.6
+1250,Driver_1250,Montreal,12/2/2023 18:40,3.7
+1251,Driver_1251,Calgary,12/29/2023 22:30,4.7
+1252,Driver_1252,S.F,12/9/2023 7:53,4.9
+1253,Driver_1253,Toronto,9/20/2023 4:53,3.5
+1254,Driver_1254,S.F,7/25/2022 23:01,4.7
+1255,Driver_1255,Ottawa,12/10/2021 1:51,5
+1256,Driver_1256,Boston,7/27/2021 11:48,3.9
+1257,Driver_1257,Vancouver,8/26/2021 23:10,5
+1258,Driver_1258,Vancouver,7/30/2023 23:35,4.7
+1259,Driver_1259,Los Angeles,10/8/2022 23:50,4.1
+1260,Driver_1260,Calgary,1/2/2023 9:44,4.5
+1261,Driver_1261,Calgary,10/29/2023 15:14,4.8
+1262,Driver_1262,Boston,1/20/2022 10:10,4.5
+1263,Driver_1263,Ottawa,5/8/2021 4:20,4.8
+1264,Driver_1264,Calgary,11/25/2022 23:58,4
+1265,Driver_1265,Calgary,12/30/2023 6:18,4.6
+1266,Driver_1266,Los Angeles,5/2/2021 7:52,3.8
+1267,Driver_1267,Ottawa,6/24/2021 7:26,4.4
+1268,Driver_1268,New York,5/1/2023 17:50,4
+1269,Driver_1269,Calgary,11/11/2021 0:57,4.1
+1270,Driver_1270,Ottawa,4/14/2023 16:08,5
+1271,Driver_1271,Chicago,9/13/2021 14:23,5
+1272,Driver_1272,Los Angeles,3/20/2023 7:44,4.8
+1273,Driver_1273,Vancouver,6/30/2021 13:44,4
+1274,Driver_1274,Boston,6/25/2023 21:19,4.3
+1275,Driver_1275,Vancouver,5/22/2021 6:33,5
+1276,Driver_1276,Calgary,11/24/2022 0:47,4.6
+1277,Driver_1277,N.Y,12/6/2022 9:10,5
+1278,Driver_1278,Chicago,3/9/2023 7:15,4.7
+1279,Driver_1279,Montreal,12/11/2022 14:40,4.6
+1280,Driver_1280,Ottawa,3/31/2021 16:34,4.3
+1281,Driver_1281,Calgary,12/20/2022 6:42,4.6
+1282,Driver_1282,San Francisco,2/3/2021 19:39,4.4
+1283,Driver_1283,Montreal,1/31/2022 6:51,4.9
+1284,Driver_1284,New York,12/5/2021 11:56,5
+1285,Driver_1285,Ottawa,4/24/2021 10:44,4.1
+1286,Driver_1286,New York,10/21/2022 4:35,3.8
+1287,Driver_1287,Los Angeles,12/25/2023 0:14,3.6
+1288,Driver_1288,Toronto,4/21/2023 16:02,4.8
+1289,Driver_1289,New York,4/18/2021 5:13,3.9
+1290,Driver_1290,Vancouver,2/19/2021 7:09,3.4
+1291,Driver_1291,San Francisco,9/28/2022 3:39,4.7
+1292,Driver_1292,Chicago,7/30/2021 9:09,5
+1293,Driver_1293,Montreal,8/5/2022 16:54,4.5
+1294,Driver_1294,Montreal,11/28/2022 18:40,4.9
+1295,Driver_1295,Montreal,8/7/2022 13:04,4.5
+1296,Driver_1296,Toronto,11/27/2023 14:01,4.5
+1297,Driver_1297,Calgary,7/26/2021 14:13,5
+1298,Driver_1298,Los Angeles,7/4/2021 6:57,4.4
+1299,Driver_1299,Chicago,4/15/2023 14:26,4.6
+1300,Driver_1300,Montreal,4/2/2023 12:40,4.7
+1301,Driver_1301,Chicago,12/12/2021 22:29,4.2
+1302,Driver_1302,New York,2/5/2021 7:38,5
+1303,Driver_1303,San Francisco,12/21/2022 6:02,4.4
+1304,Driver_1304,Calgary,10/21/2022 20:38,4.1
+1305,Driver_1305,Calgary,8/13/2022 4:27,4.8
+1306,Driver_1306,Boston,1/20/2022 11:55,4.1
+1307,Driver_1307,Vancouver,6/22/2022 17:46,4.5
+1308,Driver_1308,Chicago,3/5/2022 4:58,4.5
+1309,Driver_1309,Boston,6/25/2021 7:09,5
+1310,Driver_1310,New York,10/23/2023 13:57,4.7
+1311,Driver_1311,Montreal,8/14/2023 5:59,4.5
+1312,Driver_1312,New York,1/9/2022 20:41,4.9
+1313,Driver_1313,Boston,4/15/2021 12:47,5
+1314,Driver_1314,Toronto,7/12/2023 15:50,4.8
+1315,Driver_1315,New York,11/25/2022 12:31,4.5
+1316,Driver_1316,Ottawa,11/10/2023 22:51,3.8
+1317,Driver_1317,N.Y,1/16/2022 4:21,4
+1318,Driver_1318,N.Y,9/17/2022 21:32,4.3
+1319,Driver_1319,Vancouver,12/31/2021 0:48,4.2
+1320,Driver_1320,Calgary,12/4/2021 12:22,4.4
+1321,Driver_1321,N.Y,8/6/2021 16:37,4.5
+1322,Driver_1322,Calgary,3/26/2022 8:31,4.8
+1323,Driver_1323,Boston,6/14/2023 22:57,4.5
+1324,Driver_1324,Los Angeles,6/17/2023 1:49,4.7
+1325,Driver_1325,Ottawa,11/11/2023 17:48,4.5
+1326,Driver_1326,Los Angeles,1/4/2022 0:25,3.5
+1327,Driver_1327,San Francisco,8/11/2021 13:08,4
+1328,Driver_1328,Calgary,12/10/2021 9:04,4.4
+1329,Driver_1329,Montreal,4/12/2022 19:29,3.9
+1330,Driver_1330,San Francisco,4/5/2021 16:39,4.8
+1331,Driver_1331,Calgary,7/9/2023 2:56,5
+1332,Driver_1332,Chicago,8/31/2023 10:42,5
+1333,Driver_1333,Montreal,5/14/2023 11:36,4.4
+1334,Driver_1334,Vancouver,3/14/2021 19:57,5
+1335,Driver_1335,Los Angeles,9/27/2023 8:33,4.6
+1336,Driver_1336,Montreal,3/26/2023 17:24,4.3
+1337,Driver_1337,Los Angeles,12/18/2023 16:15,4.2
+1338,Driver_1338,Montreal,9/27/2022 5:00,4.3
+1339,Driver_1339,Chicago,4/11/2022 20:39,4.3
+1340,Driver_1340,Montreal,10/13/2021 15:30,4.6
+1341,Driver_1341,Calgary,1/6/2023 14:03,4.6
+1342,Driver_1342,Boston,12/17/2021 1:27,4.5
+1343,Driver_1343,San Francisco,8/13/2021 5:49,4.7
+1344,Driver_1344,Vancouver,3/31/2021 12:22,5
+1345,Driver_1345,Calgary,10/4/2022 1:43,5
+1346,Driver_1346,Montreal,5/16/2023 17:09,3.8
+1347,Driver_1347,Calgary,7/28/2021 7:20,3.2
+1348,Driver_1348,Montreal,1/13/2022 6:25,5
+1349,Driver_1349,San Francisco,11/12/2021 20:56,3.8
+1350,Driver_1350,Los Angeles,10/2/2023 14:56,4.4
+1351,Driver_1351,Toronto,11/30/2022 17:16,3.9
+1352,Driver_1352,L.A,5/24/2021 15:18,3.6
+1353,Driver_1353,Calgary,10/23/2021 21:40,4.8
+1354,Driver_1354,N.Y,2/22/2022 0:58,4.9
+1355,Driver_1355,Montreal,11/13/2023 12:18,4.2
+1356,Driver_1356,Ottawa,7/26/2023 14:33,3.2
+1357,Driver_1357,N.Y,4/24/2021 1:35,4.2
+1358,Driver_1358,Boston,7/2/2023 18:42,4.7
+1359,Driver_1359,Calgary,12/4/2021 2:57,3.8
+1360,Driver_1360,Vancouver,11/21/2021 11:56,4.6
+1361,Driver_1361,Los Angeles,4/16/2022 23:40,4.5
+1362,Driver_1362,N.Y,11/26/2021 0:45,4.8
+1363,Driver_1363,Boston,7/2/2021 5:51,4.6
+1364,Driver_1364,Vancouver,1/12/2022 20:31,4
+1365,Driver_1365,Ottawa,12/30/2023 6:23,5
+1366,Driver_1366,Boston,9/9/2022 3:30,4.4
+1367,Driver_1367,Boston,5/8/2023 15:00,4.5
+1368,Driver_1368,Los Angeles,3/16/2022 17:12,4
+1369,Driver_1369,Montreal,12/26/2022 7:04,4.3
+1370,Driver_1370,Calgary,10/5/2023 18:05,4.1
+1371,Driver_1371,Los Angeles,4/25/2022 2:48,4.4
+1372,Driver_1372,San Francisco,7/13/2022 16:31,5
+1373,Driver_1373,Calgary,2/12/2023 11:50,3.8
+1374,Driver_1374,Vancouver,6/3/2021 4:22,3.7
+1375,Driver_1375,Vancouver,5/13/2022 11:09,5
+1376,Driver_1376,Boston,7/30/2022 20:52,4.4
+1377,Driver_1377,Los Angeles,10/6/2022 0:26,4.2
+1378,Driver_1378,N.Y,5/24/2023 20:26,5
+1379,Driver_1379,Boston,8/15/2021 16:23,4.2
+1380,Driver_1380,N.Y,2/10/2022 2:21,5
+1381,Driver_1381,Calgary,6/27/2023 6:17,4.8
+1382,Driver_1382,Ottawa,10/11/2022 16:26,4.3
+1383,Driver_1383,San Francisco,8/25/2021 18:18,5
+1384,Driver_1384,Boston,5/28/2022 10:16,4.2
+1385,Driver_1385,Boston,8/14/2022 1:27,4.9
+1386,Driver_1386,Ottawa,1/17/2022 17:28,4.6
+1387,Driver_1387,Vancouver,5/6/2023 9:26,5
+1388,Driver_1388,Los Angeles,2/4/2022 17:50,5
+1389,Driver_1389,Vancouver,9/24/2023 20:06,4.5
+1390,Driver_1390,Vancouver,12/17/2022 20:57,4.1
+1391,Driver_1391,Chicago,7/2/2022 2:04,4.7
+1392,Driver_1392,Chicago,8/6/2021 10:01,4.2
+1393,Driver_1393,Calgary,1/29/2023 13:45,5
+1394,Driver_1394,Chicago,4/23/2023 4:19,4.6
+1395,Driver_1395,N.Y,3/25/2023 22:03,4.3
+1396,Driver_1396,N.Y,4/26/2021 11:14,4.6
+1397,Driver_1397,N.Y,1/10/2021 22:00,3.8
+1398,Driver_1398,Montreal,8/2/2021 14:03,4
+1399,Driver_1399,Boston,4/16/2021 14:01,5
+1400,Driver_1400,Chicago,1/15/2021 4:49,4.2
+1401,Driver_1401,Boston,2/25/2023 15:05,4
+1402,Driver_1402,Vancouver,8/3/2022 17:55,4.8
+1403,Driver_1403,N.Y,8/18/2023 18:34,5
+1404,Driver_1404,Ottawa,1/21/2023 15:09,4.9
+1405,Driver_1405,Vancouver,1/25/2021 10:31,5
+1406,Driver_1406,N.Y,4/7/2023 18:19,4.1
+1407,Driver_1407,Calgary,10/1/2022 23:48,3.8
+1408,Driver_1408,N.Y,1/26/2021 23:35,5
+1409,Driver_1409,Calgary,3/3/2022 19:04,4.3
+1410,Driver_1410,Calgary,3/22/2022 8:31,4.4
+1411,Driver_1411,New York,2/20/2023 3:58,5
+1412,Driver_1412,Montreal,10/6/2021 11:33,4.8
+1413,Driver_1413,Toronto,5/30/2021 14:50,4.7
+1414,Driver_1414,Calgary,8/20/2021 7:18,5
+1415,Driver_1415,Boston,10/26/2021 3:44,4.2
+1416,Driver_1416,Ottawa,3/29/2023 19:42,5
+1417,Driver_1417,San Francisco,7/5/2022 14:31,4.5
+1418,Driver_1418,San Francisco,9/9/2022 13:22,4.6
+1419,Driver_1419,Toronto,8/3/2022 12:22,5
+1420,Driver_1420,Montreal,12/15/2022 0:40,4.8
+1421,Driver_1421,Ottawa,1/13/2022 19:26,4.8
+1422,Driver_1422,Boston,4/11/2022 23:51,5
+1423,Driver_1423,Toronto,10/13/2023 13:02,4.3
+1424,Driver_1424,New York,5/26/2021 5:57,4.1
+1425,Driver_1425,Montreal,8/13/2022 3:59,4
+1426,Driver_1426,Montreal,5/9/2023 14:12,3.5
+1427,Driver_1427,Vancouver,3/29/2021 4:06,5
+1428,Driver_1428,New York,12/28/2023 19:57,3.9
+1429,Driver_1429,Chicago,5/9/2021 10:45,4.4
+1430,Driver_1430,Vancouver,11/6/2022 1:19,4.4
+1431,Driver_1431,Los Angeles,5/30/2023 0:39,4.7
+1432,Driver_1432,Toronto,4/1/2023 11:12,4.9
+1433,Driver_1433,New York,12/23/2021 22:18,4.9
+1434,Driver_1434,Boston,12/12/2023 10:21,4.2
+1435,Driver_1435,Ottawa,1/9/2023 15:56,4.4
+1436,Driver_1436,San Francisco,3/14/2021 7:57,4.6
+1437,Driver_1437,Toronto,11/30/2023 5:21,4.4
+1438,Driver_1438,San Francisco,4/24/2023 13:39,5
+1439,Driver_1439,Ottawa,10/20/2023 8:05,4.7
+1440,Driver_1440,New York,10/6/2021 14:49,4.9
+1441,Driver_1441,Los Angeles,1/25/2021 7:46,4.8
+1442,Driver_1442,Boston,7/1/2023 22:17,5
+1443,Driver_1443,Chicago,9/11/2022 17:33,4.6
+1444,Driver_1444,Toronto,4/10/2022 21:51,3.9
+1445,Driver_1445,Chicago,5/27/2023 1:53,4.7
+1446,Driver_1446,Boston,5/31/2023 7:57,4.2
+1447,Driver_1447,Montreal,11/18/2023 17:41,4.2
+1448,Driver_1448,Calgary,5/31/2022 7:47,4.8
+1449,Driver_1449,Montreal,8/6/2021 9:44,5
+1450,Driver_1450,Toronto,2/17/2023 22:54,4.5
+1451,Driver_1451,Los Angeles,3/25/2021 9:56,4.7
+1452,Driver_1452,Toronto,11/10/2022 23:49,5
+1453,Driver_1453,Boston,4/29/2021 2:09,4.6
+1454,Driver_1454,Los Angeles,7/30/2023 2:19,5
+1455,Driver_1455,Ottawa,7/15/2023 5:54,4.8
+1456,Driver_1456,Montreal,5/23/2022 0:12,3.6
+1457,Driver_1457,New York,9/13/2023 1:49,4.9
+1458,Driver_1458,San Francisco,12/1/2022 21:43,4.7
+1459,Driver_1459,Vancouver,12/21/2021 9:36,5
+1460,Driver_1460,Los Angeles,5/10/2023 2:44,4.8
+1461,Driver_1461,Montreal,11/2/2022 20:27,4.4
+1462,Driver_1462,Chicago,11/22/2023 20:51,3.9
+1463,Driver_1463,Ottawa,10/24/2023 7:38,4.4
+1464,Driver_1464,Montreal,5/14/2021 2:54,4.1
+1465,Driver_1465,Ottawa,4/4/2022 20:32,4.2
+1466,Driver_1466,Boston,4/25/2021 4:31,4.8
+1467,Driver_1467,Toronto,2/21/2022 6:43,5
+1468,Driver_1468,Chicago,8/14/2022 7:25,4.7
+1469,Driver_1469,Chicago,8/29/2022 6:09,3.9
+1470,Driver_1470,Los Angeles,7/15/2022 7:52,4.7
+1471,Driver_1471,Toronto,5/23/2021 4:07,5
+1472,Driver_1472,New York,4/24/2022 21:02,4.2
+1473,Driver_1473,Vancouver,7/14/2022 2:41,4.4
+1474,Driver_1474,San Francisco,6/8/2021 19:27,4.5
+1475,Driver_1475,Chicago,5/16/2021 14:40,4.1
+1476,Driver_1476,Chicago,11/1/2022 12:04,4.8
+1477,Driver_1477,Vancouver,5/16/2023 5:54,4.4
+1478,Driver_1478,Calgary,3/8/2023 1:10,4.7
+1479,Driver_1479,Montreal,6/10/2021 11:02,4.1
+1480,Driver_1480,New York,5/20/2021 5:13,4.3
+1481,Driver_1481,Los Angeles,5/11/2023 22:48,4.9
+1482,Driver_1482,Toronto,7/17/2023 6:57,4.3
+1483,Driver_1483,Ottawa,5/19/2022 23:38,5
+1484,Driver_1484,Montreal,1/20/2021 4:05,4.3
+1485,Driver_1485,San Francisco,10/5/2022 19:57,4.6
+1486,Driver_1486,Montreal,5/12/2021 13:49,5
+1487,Driver_1487,Calgary,1/13/2022 2:05,3.8
+1488,Driver_1488,Ottawa,3/21/2023 12:11,3.6
+1489,Driver_1489,Chicago,12/1/2023 14:25,3.7
+1490,Driver_1490,Montreal,9/21/2021 7:28,5
+1491,Driver_1491,Chicago,2/22/2022 18:01,4.2
+1492,Driver_1492,San Francisco,2/21/2022 22:55,5
+1493,Driver_1493,Vancouver,8/15/2021 16:50,4.2
+1494,Driver_1494,Toronto,9/17/2021 17:56,4.6
+1495,Driver_1495,Montreal,3/5/2022 16:36,5
+1496,Driver_1496,Montreal,4/11/2022 15:34,5
+1497,Driver_1497,Vancouver,4/30/2021 11:50,5
+1498,Driver_1498,Los Angeles,1/27/2022 0:02,5
+1499,Driver_1499,Boston,8/29/2023 22:56,5
+1500,Driver_1500,Vancouver,7/12/2023 10:42,4.8
+1501,Driver_1501,Ottawa,10/31/2021 18:33,4.9
+1502,Driver_1502,Vancouver,6/16/2021 4:13,4.2
+1503,Driver_1503,Chicago,4/19/2022 6:28,4.1
+1504,Driver_1504,New York,9/7/2022 16:27,4.5
+1505,Driver_1505,Los Angeles,8/22/2023 10:26,4.4
+1506,Driver_1506,Montreal,5/27/2022 22:12,4.3
+1507,Driver_1507,Vancouver,6/4/2022 23:52,4.8
+1508,Driver_1508,Montreal,10/9/2023 8:24,5
+1509,Driver_1509,Ottawa,7/31/2021 11:05,4.5
+1510,Driver_1510,San Francisco,5/14/2022 3:15,5
+1511,Driver_1511,Ottawa,12/17/2023 2:22,3.9
+1512,Driver_1512,Boston,1/15/2023 2:46,4.4
+1513,Driver_1513,Los Angeles,10/3/2021 22:47,4.1
+1514,Driver_1514,Montreal,5/11/2022 18:18,3.6
+1515,Driver_1515,San Francisco,12/16/2023 13:54,4.5
+1516,Driver_1516,Vancouver,6/14/2023 14:20,4.4
+1517,Driver_1517,Boston,5/22/2022 5:55,5
+1518,Driver_1518,Montreal,3/12/2022 10:20,4.8
+1519,Driver_1519,Montreal,7/22/2022 0:45,4
+1520,Driver_1520,Toronto,5/26/2023 21:52,5
+1521,Driver_1521,Boston,7/9/2023 23:49,5
+1522,Driver_1522,Calgary,10/7/2021 12:10,4.8
+1523,Driver_1523,Calgary,2/11/2021 19:30,4.4
+1524,Driver_1524,Vancouver,11/22/2021 16:15,4
+1525,Driver_1525,Vancouver,3/29/2022 13:36,4.3
+1526,Driver_1526,Toronto,9/28/2022 13:54,5
+1527,Driver_1527,Vancouver,8/5/2021 4:58,5
+1528,Driver_1528,San Francisco,1/11/2022 23:12,5
+1529,Driver_1529,San Francisco,10/21/2023 4:44,4.3
+1530,Driver_1530,Chicago,10/20/2022 7:21,3.9
+1531,Driver_1531,Montreal,4/25/2021 21:37,4.6
+1532,Driver_1532,Vancouver,7/18/2023 20:35,3.6
+1533,Driver_1533,Vancouver,6/24/2023 11:37,4.7
+1534,Driver_1534,Montreal,4/11/2023 2:39,4.4
+1535,Driver_1535,Calgary,12/11/2023 12:46,4.3
+1536,Driver_1536,Montreal,4/25/2023 12:33,3.7
+1537,Driver_1537,New York,7/13/2022 12:13,4.8
+1538,Driver_1538,Calgary,7/12/2023 11:12,4.2
+1539,Driver_1539,Toronto,6/19/2021 21:35,3.9
+1540,Driver_1540,Boston,10/19/2023 13:09,3.1
+1541,Driver_1541,Los Angeles,9/16/2021 9:32,4.5
+1542,Driver_1542,Ottawa,3/10/2021 19:30,5
+1543,Driver_1543,Ottawa,9/30/2023 0:30,5
+1544,Driver_1544,Montreal,5/31/2022 2:49,4.3
+1545,Driver_1545,Montreal,6/14/2021 13:53,4.2
+1546,Driver_1546,New York,6/3/2021 4:19,4.7
+1547,Driver_1547,San Francisco,12/11/2021 20:48,4
+1548,Driver_1548,Calgary,3/17/2023 22:10,4.7
+1549,Driver_1549,Calgary,6/21/2023 19:17,4.9
+1550,Driver_1550,Ottawa,12/10/2021 8:39,5
+1551,Driver_1551,Vancouver,8/5/2022 4:11,4.4
+1552,Driver_1552,Montreal,12/21/2022 8:14,4.4
+1553,Driver_1553,Ottawa,12/9/2023 13:22,4.1
+1554,Driver_1554,Calgary,8/23/2021 4:10,4.1
+1555,Driver_1555,Los Angeles,2/8/2021 3:45,4.4
+1556,Driver_1556,Vancouver,6/12/2021 9:52,4.7
+1557,Driver_1557,San Francisco,10/9/2022 4:41,5
+1558,Driver_1558,Toronto,6/30/2021 7:22,4.1
+1559,Driver_1559,Chicago,6/26/2022 2:38,5
+1560,Driver_1560,San Francisco,6/17/2022 22:27,4.4
+1561,Driver_1561,Vancouver,11/18/2021 8:34,4.5
+1562,Driver_1562,Calgary,1/21/2023 4:47,4.1
+1563,Driver_1563,Los Angeles,1/10/2023 16:37,3.3
+1564,Driver_1564,Toronto,11/12/2022 16:00,4.9
+1565,Driver_1565,Vancouver,5/11/2022 9:48,4.9
+1566,Driver_1566,Toronto,4/12/2022 10:39,4.4
+1567,Driver_1567,New York,6/28/2021 18:41,4.5
+1568,Driver_1568,New York,6/17/2022 22:52,4.8
+1569,Driver_1569,Toronto,11/18/2023 21:35,3.7
+1570,Driver_1570,Chicago,1/14/2022 21:44,4.2
+1571,Driver_1571,Calgary,9/29/2021 0:05,4.9
+1572,Driver_1572,Calgary,9/6/2021 18:17,3.9
+1573,Driver_1573,Los Angeles,5/20/2023 16:40,4.6
+1574,Driver_1574,Montreal,12/19/2022 18:37,3.8
+1575,Driver_1575,Boston,9/22/2022 5:15,4.7
+1576,Driver_1576,Chicago,10/17/2021 13:00,4.5
+1577,Driver_1577,Montreal,9/7/2022 12:22,3.7
+1578,Driver_1578,New York,8/12/2023 23:33,5
+1579,Driver_1579,Boston,11/30/2022 9:22,4.1
+1580,Driver_1580,Ottawa,10/30/2022 6:53,4.1
+1581,Driver_1581,Montreal,1/7/2021 21:54,4.6
+1582,Driver_1582,Boston,11/16/2021 16:12,5
+1583,Driver_1583,San Francisco,12/30/2023 6:03,4
+1584,Driver_1584,Toronto,6/16/2023 21:05,4.5
+1585,Driver_1585,Toronto,4/15/2023 0:40,4.7
+1586,Driver_1586,Chicago,7/23/2022 5:45,4.8
+1587,Driver_1587,Los Angeles,11/3/2021 3:27,4.6
+1588,Driver_1588,Vancouver,6/27/2021 0:32,4.3
+1589,Driver_1589,San Francisco,11/8/2023 21:33,4.1
+1590,Driver_1590,Vancouver,3/31/2023 18:38,4.5
+1591,Driver_1591,Los Angeles,7/17/2023 8:41,4
+1592,Driver_1592,Montreal,8/8/2023 15:13,3
+1593,Driver_1593,Montreal,7/1/2023 21:07,4.7
+1594,Driver_1594,Toronto,6/25/2022 11:34,5
+1595,Driver_1595,Los Angeles,12/13/2022 6:16,3.3
+1596,Driver_1596,Ottawa,9/26/2021 0:17,4
+1597,Driver_1597,San Francisco,8/13/2023 13:38,4.8
+1598,Driver_1598,Ottawa,5/12/2021 15:46,5
+1599,Driver_1599,Chicago,5/2/2022 12:24,4.5
+1600,Driver_1600,Toronto,1/6/2022 14:38,4.1
+1601,Driver_1601,San Francisco,7/1/2021 16:10,4.4
+1602,Driver_1602,Chicago,8/3/2022 21:51,5
+1603,Driver_1603,Chicago,3/5/2023 12:55,4.2
+1604,Driver_1604,Montreal,10/12/2022 17:05,4.1
+1605,Driver_1605,Ottawa,8/3/2021 4:03,4.3
+1606,Driver_1606,Ottawa,8/20/2022 1:44,4
+1607,Driver_1607,Montreal,10/16/2021 13:23,4.6
+1608,Driver_1608,Vancouver,9/15/2023 5:13,5
+1609,Driver_1609,Calgary,12/14/2023 5:03,4.7
+1610,Driver_1610,Chicago,5/13/2023 0:38,4.4
+1611,Driver_1611,Chicago,1/31/2023 15:10,4.4
+1612,Driver_1612,San Francisco,8/6/2021 22:38,3.7
+1613,Driver_1613,Chicago,5/4/2022 16:23,4.9
+1614,Driver_1614,Vancouver,8/21/2023 5:16,4.5
+1615,Driver_1615,New York,7/12/2022 17:57,4.4
+1616,Driver_1616,New York,1/23/2023 19:31,5
+1617,Driver_1617,Chicago,10/31/2021 2:55,4.6
+1618,Driver_1618,Montreal,5/23/2023 9:17,4.1
+1619,Driver_1619,Calgary,10/12/2023 12:12,4.3
+1620,Driver_1620,Vancouver,9/28/2022 13:38,5
+1621,Driver_1621,Vancouver,10/8/2022 15:49,4.6
+1622,Driver_1622,Vancouver,1/30/2023 4:02,3.8
+1623,Driver_1623,Chicago,5/9/2021 10:11,5
+1624,Driver_1624,Ottawa,2/17/2021 22:34,4.2
+1625,Driver_1625,Boston,3/30/2022 17:54,5
+1626,Driver_1626,New York,3/3/2022 23:15,5
+1627,Driver_1627,Boston,4/16/2023 3:30,4.3
+1628,Driver_1628,San Francisco,9/19/2021 7:17,5
+1629,Driver_1629,Vancouver,5/29/2023 16:58,4.5
+1630,Driver_1630,Vancouver,5/4/2023 23:16,4.9
+1631,Driver_1631,Calgary,6/25/2021 20:48,4.7
+1632,Driver_1632,Ottawa,6/27/2021 9:55,4.1
+1633,Driver_1633,San Francisco,4/24/2023 16:27,4.2
+1634,Driver_1634,Los Angeles,4/23/2023 0:50,5
+1635,Driver_1635,New York,11/17/2022 15:20,4.3
+1636,Driver_1636,Calgary,12/6/2021 11:50,4.3
+1637,Driver_1637,Montreal,6/9/2021 2:21,4
+1638,Driver_1638,Boston,4/8/2022 11:23,4.7
+1639,Driver_1639,New York,11/30/2022 15:14,5
+1640,Driver_1640,San Francisco,6/26/2022 11:53,4
+1641,Driver_1641,Toronto,11/14/2022 1:42,4.5
+1642,Driver_1642,Toronto,1/4/2022 1:59,5
+1643,Driver_1643,Boston,7/3/2023 7:23,4.5
+1644,Driver_1644,Los Angeles,8/7/2023 0:12,4.7
+1645,Driver_1645,Montreal,9/15/2021 20:14,4
+1646,Driver_1646,Ottawa,8/5/2021 7:03,4.7
+1647,Driver_1647,Boston,11/18/2021 11:23,4.4
+1648,Driver_1648,New York,6/5/2023 13:54,5
+1649,Driver_1649,Los Angeles,4/7/2023 20:51,5
+1650,Driver_1650,San Francisco,7/17/2023 4:28,5
+1651,Driver_1651,Calgary,9/19/2021 13:33,4.8
+1652,Driver_1652,Los Angeles,12/30/2023 17:01,4.7
+1653,Driver_1653,San Francisco,3/26/2022 11:07,4.6
+1654,Driver_1654,Ottawa,2/20/2022 7:16,4.3
+1655,Driver_1655,Calgary,11/22/2023 6:06,4.7
+1656,Driver_1656,Toronto,7/30/2021 15:07,4.4
+1657,Driver_1657,Montreal,4/3/2021 2:20,4.6
+1658,Driver_1658,San Francisco,10/16/2023 21:35,5
+1659,Driver_1659,Chicago,12/26/2023 15:04,4
+1660,Driver_1660,Chicago,1/23/2022 20:38,5
+1661,Driver_1661,Chicago,5/16/2022 8:38,5
+1662,Driver_1662,Boston,11/17/2023 11:51,4.4
+1663,Driver_1663,Montreal,1/31/2023 8:20,3.4
+1664,Driver_1664,Chicago,6/16/2023 23:59,4.2
+1665,Driver_1665,San Francisco,9/3/2023 6:33,5
+1666,Driver_1666,Montreal,8/6/2022 19:26,4.5
+1667,Driver_1667,Vancouver,4/28/2021 7:27,4
+1668,Driver_1668,Toronto,9/18/2022 19:21,4.2
+1669,Driver_1669,Calgary,3/9/2022 5:00,4.9
+1670,Driver_1670,Los Angeles,12/8/2022 8:16,4.8
+1671,Driver_1671,Vancouver,5/24/2022 10:13,4.4
+1672,Driver_1672,Ottawa,1/4/2021 20:12,4.3
+1673,Driver_1673,Toronto,12/14/2022 4:13,4.3
+1674,Driver_1674,Los Angeles,4/9/2021 9:08,4
+1675,Driver_1675,Calgary,9/10/2022 19:55,5
+1676,Driver_1676,Boston,10/30/2022 10:15,4.3
+1677,Driver_1677,Boston,2/8/2023 12:18,5
+1678,Driver_1678,San Francisco,5/17/2022 13:17,5
+1679,Driver_1679,San Francisco,6/9/2022 16:25,5
+1680,Driver_1680,Calgary,6/17/2023 18:55,4.3
+1681,Driver_1681,Chicago,5/30/2023 11:18,4.7
+1682,Driver_1682,Vancouver,6/18/2022 23:32,4.5
+1683,Driver_1683,New York,3/13/2021 8:52,4
+1684,Driver_1684,Toronto,8/31/2023 17:39,4.7
+1685,Driver_1685,Vancouver,1/26/2021 7:00,3.9
+1686,Driver_1686,Toronto,9/3/2021 10:03,5
+1687,Driver_1687,Vancouver,12/11/2022 4:13,4.3
+1688,Driver_1688,New York,10/27/2022 13:30,4.6
+1689,Driver_1689,Boston,12/6/2023 16:33,4.6
+1690,Driver_1690,Chicago,10/7/2023 17:39,4.4
+1691,Driver_1691,San Francisco,9/4/2021 23:06,4.8
+1692,Driver_1692,San Francisco,5/25/2021 23:58,4.3
+1693,Driver_1693,Los Angeles,1/24/2022 23:11,4.9
+1694,Driver_1694,Toronto,8/1/2022 15:20,3.8
+1695,Driver_1695,Chicago,3/22/2021 10:46,4.6
+1696,Driver_1696,Montreal,8/30/2023 20:13,5
+1697,Driver_1697,San Francisco,12/23/2023 13:03,4
+1698,Driver_1698,Boston,10/29/2022 18:53,4.2
+1699,Driver_1699,Toronto,12/30/2023 3:45,4.8
+1700,Driver_1700,Toronto,1/2/2021 16:30,4.6
+1701,Driver_1701,Boston,1/11/2023 16:38,4.7
+1702,Driver_1702,Toronto,7/26/2021 3:24,4.7
+1703,Driver_1703,Ottawa,12/18/2021 9:00,4.8
+1704,Driver_1704,Calgary,11/23/2023 7:35,5
+1705,Driver_1705,Vancouver,1/15/2021 10:14,4.7
+1706,Driver_1706,New York,12/17/2023 13:44,4.4
+1707,Driver_1707,Los Angeles,7/7/2021 8:03,4.8
+1708,Driver_1708,Montreal,12/15/2023 3:21,5
+1709,Driver_1709,Chicago,1/13/2023 1:57,4.4
+1710,Driver_1710,Toronto,12/22/2021 15:45,4
+1711,Driver_1711,Montreal,5/19/2021 18:30,5
+1712,Driver_1712,Toronto,6/10/2021 7:37,4.4
+1713,Driver_1713,Los Angeles,7/25/2022 23:41,3.4
+1714,Driver_1714,San Francisco,8/2/2021 0:33,4.9
+1715,Driver_1715,Montreal,7/26/2021 20:03,4.2
+1716,Driver_1716,Chicago,4/17/2021 6:34,4.5
+1717,Driver_1717,Calgary,5/26/2023 1:01,4.7
+1718,Driver_1718,New York,8/7/2023 2:21,4.6
+1719,Driver_1719,Chicago,11/15/2022 16:05,4.9
+1720,Driver_1720,Los Angeles,11/27/2021 23:16,4.3
+1721,Driver_1721,Chicago,10/2/2022 13:39,4.8
+1722,Driver_1722,Ottawa,12/3/2023 13:02,4.4
+1723,Driver_1723,Vancouver,12/4/2021 11:28,4.9
+1724,Driver_1724,Toronto,6/6/2021 1:36,4.8
+1725,Driver_1725,Chicago,7/11/2021 7:38,4
+1726,Driver_1726,Ottawa,8/20/2022 13:44,5
+1727,Driver_1727,Los Angeles,10/30/2022 0:46,4.2
+1728,Driver_1728,Los Angeles,8/6/2021 5:14,4.9
+1729,Driver_1729,Boston,3/7/2022 6:06,4.7
+1730,Driver_1730,Toronto,1/21/2022 12:20,5
+1731,Driver_1731,Calgary,7/23/2023 14:52,4.4
+1732,Driver_1732,Ottawa,8/2/2023 20:42,4.3
+1733,Driver_1733,San Francisco,12/9/2023 14:48,4.5
+1734,Driver_1734,New York,10/20/2023 19:07,4.3
+1735,Driver_1735,San Francisco,11/16/2021 3:34,4.9
+1736,Driver_1736,Calgary,8/1/2023 19:52,3.7
+1737,Driver_1737,Calgary,10/21/2021 1:15,4
+1738,Driver_1738,Montreal,4/5/2022 2:36,4
+1739,Driver_1739,New York,1/7/2022 19:16,5
+1740,Driver_1740,Vancouver,8/23/2022 10:51,5
+1741,Driver_1741,Toronto,1/10/2022 12:10,4.4
+1742,Driver_1742,Vancouver,9/19/2023 5:26,4.4
+1743,Driver_1743,Ottawa,4/21/2021 7:31,4.5
+1744,Driver_1744,Calgary,1/19/2021 17:53,5
+1745,Driver_1745,Los Angeles,5/7/2022 14:57,4
+1746,Driver_1746,Chicago,8/24/2022 22:22,4.6
+1747,Driver_1747,Ottawa,10/16/2022 18:55,5
+1748,Driver_1748,Los Angeles,4/29/2023 17:38,4.8
+1749,Driver_1749,Chicago,1/2/2023 16:41,4.6
+1750,Driver_1750,Toronto,1/26/2021 22:13,5
+1751,Driver_1751,Ottawa,4/15/2021 21:47,3.1
+1752,Driver_1752,New York,2/12/2022 6:58,4.8
+1753,Driver_1753,Boston,3/3/2021 20:51,4.2
+1754,Driver_1754,New York,9/11/2022 5:35,3.6
+1755,Driver_1755,Calgary,3/22/2022 1:02,4.8
+1756,Driver_1756,Calgary,10/8/2022 8:25,5
+1757,Driver_1757,Montreal,12/27/2023 5:23,4.4
+1758,Driver_1758,Montreal,5/9/2021 1:07,5
+1759,Driver_1759,Calgary,4/16/2023 5:14,5
+1760,Driver_1760,Ottawa,8/26/2021 4:20,5
+1761,Driver_1761,San Francisco,5/10/2021 20:43,5
+1762,Driver_1762,San Francisco,5/3/2021 18:08,4.9
+1763,Driver_1763,Calgary,11/12/2021 15:45,4.5
+1764,Driver_1764,Chicago,4/14/2023 6:04,3.7
+1765,Driver_1765,Los Angeles,8/30/2022 23:31,4.4
+1766,Driver_1766,Ottawa,9/13/2023 8:12,4.1
+1767,Driver_1767,Toronto,4/27/2022 19:57,5
+1768,Driver_1768,Montreal,1/6/2022 17:02,4.4
+1769,Driver_1769,New York,1/15/2022 18:51,4.6
+1770,Driver_1770,Toronto,11/6/2022 22:43,4.8
+1771,Driver_1771,Toronto,12/6/2022 6:55,4.5
+1772,Driver_1772,Ottawa,8/4/2023 18:55,5
+1773,Driver_1773,New York,4/26/2022 11:10,4.2
+1774,Driver_1774,Chicago,7/5/2021 13:09,4.6
+1775,Driver_1775,New York,8/2/2021 3:37,4.1
+1776,Driver_1776,New York,9/12/2021 12:07,3.8
+1777,Driver_1777,Vancouver,6/23/2022 14:06,4.2
+1778,Driver_1778,Calgary,3/15/2023 11:27,4.5
+1779,Driver_1779,San Francisco,9/17/2021 8:49,4.3
+1780,Driver_1780,Los Angeles,7/17/2021 4:18,4.2
+1781,Driver_1781,San Francisco,7/3/2021 9:28,3.8
+1782,Driver_1782,New York,6/5/2022 10:06,4.5
+1783,Driver_1783,Montreal,2/27/2022 12:10,3.7
+1784,Driver_1784,Calgary,4/10/2021 5:19,4.9
+1785,Driver_1785,San Francisco,6/15/2023 19:07,4.5
+1786,Driver_1786,Toronto,2/10/2023 17:43,3.8
+1787,Driver_1787,Vancouver,3/5/2023 11:19,4.3
+1788,Driver_1788,L.A,3/28/2021 2:55,4.1
+1789,Driver_1789,Vancouver,5/31/2023 15:02,4.7
+1790,Driver_1790,Chicago,7/26/2022 4:23,5
+1791,Driver_1791,Chicago,2/1/2022 7:25,3.6
+1792,Driver_1792,Toronto,6/11/2023 13:00,4.6
+1793,Driver_1793,Toronto,12/21/2021 19:32,4.4
+1794,Driver_1794,Calgary,1/4/2021 23:45,4.8
+1795,Driver_1795,New York,1/20/2021 2:07,4.6
+1796,Driver_1796,Boston,3/13/2021 10:18,4.1
+1797,Driver_1797,Vancouver,7/20/2022 10:01,4.3
+1798,Driver_1798,Montreal,8/22/2021 3:33,4.1
+1799,Driver_1799,Chicago,2/24/2021 22:26,5
+1800,Driver_1800,Calgary,10/16/2023 14:23,4.5
+1801,Driver_1801,Montreal,12/15/2021 18:32,5
+1802,Driver_1802,Los Angeles,1/21/2022 15:55,4.5
+1803,Driver_1803,Montreal,5/13/2022 0:02,4.1
+1804,Driver_1804,San Francisco,5/1/2021 23:50,3.7
+1805,Driver_1805,Ottawa,8/3/2022 3:17,3.6
+1806,Driver_1806,Toronto,2/19/2023 21:26,3.7
+1807,Driver_1807,New York,10/6/2021 14:26,4.6
+1808,Driver_1808,Boston,3/13/2023 5:27,4.8
+1809,Driver_1809,New York,9/15/2022 19:33,3.7
+1810,Driver_1810,Toronto,12/24/2022 11:58,4.9
+1811,Driver_1811,San Francisco,4/28/2022 15:39,4.3
+1812,Driver_1812,Los Angeles,5/15/2021 4:41,4.6
+1813,Driver_1813,Calgary,12/11/2022 12:43,5
+1814,Driver_1814,New York,7/28/2022 2:18,4.9
+1815,Driver_1815,Boston,3/29/2022 23:27,4.4
+1816,Driver_1816,Ottawa,4/18/2022 2:33,4.1
+1817,Driver_1817,Ottawa,1/12/2022 20:11,3.4
+1818,Driver_1818,Vancouver,7/27/2022 2:14,4.1
+1819,Driver_1819,Ottawa,2/6/2023 9:49,4.4
+1820,Driver_1820,Boston,4/30/2023 1:12,4
+1821,Driver_1821,Boston,8/22/2021 21:31,4.4
+1822,Driver_1822,New York,9/29/2022 23:15,4.5
+1823,Driver_1823,New York,12/28/2021 22:47,4.4
+1824,Driver_1824,Calgary,6/23/2022 3:36,4.2
+1825,Driver_1825,New York,6/5/2022 10:21,4.6
+1826,Driver_1826,New York,10/19/2023 2:03,4.7
+1827,Driver_1827,Montreal,4/23/2022 16:49,4
+1828,Driver_1828,Toronto,11/15/2021 18:12,5
+1829,Driver_1829,Calgary,1/5/2022 23:31,4.5
+1830,Driver_1830,Montreal,2/4/2023 8:09,4.5
+1831,Driver_1831,New York,8/10/2021 4:04,4.9
+1832,Driver_1832,San Francisco,5/25/2021 12:17,4.6
+1833,Driver_1833,New York,12/26/2021 13:55,5
+1834,Driver_1834,Calgary,10/4/2022 15:52,4.6
+1835,Driver_1835,Los Angeles,12/14/2022 4:33,4.2
+1836,Driver_1836,Toronto,6/22/2023 4:41,4.7
+1837,Driver_1837,Toronto,2/25/2023 3:42,3.9
+1838,Driver_1838,Chicago,9/17/2023 21:07,4.6
+1839,Driver_1839,Montreal,4/27/2021 5:52,4.5
+1840,Driver_1840,Ottawa,6/2/2023 1:53,4.4
+1841,Driver_1841,New York,11/7/2022 17:20,4.4
+1842,Driver_1842,Chicago,1/3/2022 19:29,3.6
+1843,Driver_1843,San Francisco,2/10/2022 10:26,4.2
+1844,Driver_1844,Los Angeles,9/3/2022 10:20,4.5
+1845,Driver_1845,Los Angeles,5/10/2022 2:03,4.6
+1846,Driver_1846,Vancouver,2/27/2022 11:14,4
+1847,Driver_1847,Boston,4/27/2021 0:32,5
+1848,Driver_1848,Boston,7/31/2021 10:37,4.1
+1849,Driver_1849,Ottawa,6/19/2021 6:48,5
+1850,Driver_1850,Chicago,6/14/2021 3:12,4.7
+1851,Driver_1851,Chicago,11/30/2022 9:03,4.2
+1852,Driver_1852,Vancouver,5/3/2022 20:00,5
+1853,Driver_1853,Montreal,7/7/2021 13:23,3.9
+1854,Driver_1854,Calgary,7/11/2022 13:55,5
+1855,Driver_1855,Boston,12/4/2022 0:41,5
+1856,Driver_1856,San Francisco,12/21/2022 18:48,4.2
+1857,Driver_1857,San Francisco,7/6/2021 6:42,5
+1858,Driver_1858,Toronto,9/2/2021 20:19,4.4
+1859,Driver_1859,San Francisco,12/31/2023 17:17,4.6
+1860,Driver_1860,Ottawa,3/4/2021 15:36,4.6
+1861,Driver_1861,Boston,5/25/2022 5:02,4.4
+1862,Driver_1862,Chicago,5/22/2021 16:39,4.9
+1863,Driver_1863,Boston,7/7/2022 15:03,4.9
+1864,Driver_1864,Montreal,3/9/2023 15:09,3.6
+1865,Driver_1865,New York,11/18/2023 23:13,5
+1866,Driver_1866,San Francisco,2/9/2022 3:43,3.7
+1867,Driver_1867,Chicago,2/18/2021 6:49,5
+1868,Driver_1868,Montreal,12/4/2022 11:16,5
+1869,Driver_1869,Calgary,5/5/2023 13:59,4
+1870,Driver_1870,Boston,5/28/2021 3:36,4.3
+1871,Driver_1871,Vancouver,6/8/2021 7:22,3.9
+1872,Driver_1872,Chicago,7/8/2021 16:06,4.4
+1873,Driver_1873,New York,4/6/2021 19:11,4.3
+1874,Driver_1874,Boston,7/23/2021 1:25,4.9
+1875,Driver_1875,Boston,9/15/2022 6:46,5
+1876,Driver_1876,Los Angeles,12/3/2023 2:34,5
+1877,Driver_1877,Toronto,6/24/2023 14:36,4.2
+1878,Driver_1878,Ottawa,2/7/2022 1:31,4.4
+1879,Driver_1879,Toronto,2/3/2021 20:46,3.7
+1880,Driver_1880,Toronto,11/4/2021 4:40,4.1
+1881,Driver_1881,Vancouver,7/20/2021 1:41,5
+1882,Driver_1882,Toronto,5/31/2022 1:04,5
+1883,Driver_1883,Toronto,3/8/2021 7:50,3.9
+1884,Driver_1884,Vancouver,3/20/2021 15:54,4.2
+1885,Driver_1885,Chicago,6/11/2023 11:57,4.5
+1886,Driver_1886,Montreal,9/6/2022 14:37,4.6
+1887,Driver_1887,Vancouver,2/15/2021 19:10,4.1
+1888,Driver_1888,Montreal,11/28/2023 8:01,4.7
+1889,Driver_1889,Montreal,9/26/2021 10:43,4.3
+1890,Driver_1890,Los Angeles,11/30/2021 13:11,4.5
+1891,Driver_1891,Chicago,3/4/2022 4:03,4.8
+1892,Driver_1892,San Francisco,11/24/2022 20:30,4.5
+1893,Driver_1893,Chicago,2/23/2021 19:49,4.3
+1894,Driver_1894,Ottawa,8/20/2023 20:34,4.4
+1895,Driver_1895,Ottawa,1/17/2022 19:31,4.5
+1896,Driver_1896,San Francisco,2/15/2023 0:01,4.3
+1897,Driver_1897,Montreal,5/6/2023 11:09,4.4
+1898,Driver_1898,Vancouver,4/5/2021 17:27,5
+1899,Driver_1899,Toronto,3/11/2022 14:48,4.8
+1900,Driver_1900,Montreal,8/2/2021 4:31,4.4
+1901,Driver_1901,Montreal,11/6/2021 20:19,4.8
+1902,Driver_1902,Calgary,1/23/2022 0:54,4.3
+1903,Driver_1903,Calgary,1/31/2021 8:07,5
+1904,Driver_1904,Montreal,7/12/2022 20:40,4.7
+1905,Driver_1905,Vancouver,4/26/2023 21:05,4.4
+1906,Driver_1906,Vancouver,6/19/2022 10:31,4.7
+1907,Driver_1907,Ottawa,2/20/2023 10:34,3.7
+1908,Driver_1908,L.A,8/27/2022 7:54,3.9
+1909,Driver_1909,San Francisco,10/7/2021 8:01,3.9
+1910,Driver_1910,New York,5/11/2022 8:37,4.6
+1911,Driver_1911,Ottawa,12/7/2021 5:39,5
+1912,Driver_1912,New York,3/13/2022 9:55,5
+1913,Driver_1913,New York,1/3/2023 17:40,4.8
+1914,Driver_1914,Calgary,7/10/2022 6:03,4.8
+1915,Driver_1915,Ottawa,12/28/2021 14:00,3.6
+1916,Driver_1916,Chicago,6/5/2021 13:16,4.2
+1917,Driver_1917,Boston,10/18/2023 9:40,4.1
+1918,Driver_1918,Boston,2/19/2022 0:50,4.2
+1919,Driver_1919,Calgary,3/28/2021 20:25,4.4
+1920,Driver_1920,Boston,6/14/2023 7:21,4.3
+1921,Driver_1921,Montreal,7/6/2022 4:04,3.5
+1922,Driver_1922,Chicago,10/1/2021 13:29,4.9
+1923,Driver_1923,Boston,7/10/2023 10:43,4
+1924,Driver_1924,Los Angeles,12/20/2023 17:24,4.6
+1925,Driver_1925,Los Angeles,7/8/2023 23:02,5
+1926,Driver_1926,New York,12/29/2023 18:37,4
+1927,Driver_1927,Los Angeles,6/1/2023 19:34,3.2
+1928,Driver_1928,Ottawa,8/9/2021 17:57,4.4
+1929,Driver_1929,Ottawa,10/20/2021 9:51,5
+1930,Driver_1930,Vancouver,4/23/2023 3:52,5
+1931,Driver_1931,San Francisco,9/30/2021 17:13,3.9
+1932,Driver_1932,Vancouver,2/28/2021 23:23,4.7
+1933,Driver_1933,Toronto,3/29/2021 6:05,4.3
+1934,Driver_1934,Boston,7/24/2023 15:36,4.4
+1935,Driver_1935,Boston,1/31/2021 22:58,5
+1936,Driver_1936,Calgary,1/13/2023 12:43,3.7
+1937,Driver_1937,New York,5/31/2022 7:56,4.6
+1938,Driver_1938,Ottawa,11/9/2021 23:08,4.7
+1939,Driver_1939,Chicago,6/14/2022 8:25,5
+1940,Driver_1940,Chicago,5/18/2022 16:15,4.5
+1941,Driver_1941,New York,2/4/2021 0:58,4.7
+1942,Driver_1942,Chicago,7/1/2023 6:22,4.3
+1943,Driver_1943,Chicago,6/22/2021 7:25,4.6
+1944,Driver_1944,Calgary,7/21/2022 20:04,4.3
+1945,Driver_1945,Toronto,8/4/2022 8:28,4.8
+1946,Driver_1946,Montreal,6/30/2023 8:17,4.3
+1947,Driver_1947,Toronto,6/7/2022 19:54,4.7
+1948,Driver_1948,San Francisco,5/17/2022 3:31,4.5
+1949,Driver_1949,Chicago,9/2/2021 16:10,5
+1950,Driver_1950,Montreal,9/21/2023 1:33,4.5
+1951,Driver_1951,Vancouver,10/6/2023 11:11,3.6
+1952,Driver_1952,Los Angeles,9/28/2021 14:44,5
+1953,Driver_1953,Calgary,12/14/2023 9:48,4
+1954,Driver_1954,Ottawa,7/9/2022 7:25,4.2
+1955,Driver_1955,Boston,10/31/2023 20:49,4.2
+1956,Driver_1956,Ottawa,9/30/2021 9:34,5
+1957,Driver_1957,Montreal,4/22/2022 15:11,3.4
+1958,Driver_1958,San Francisco,7/17/2021 19:53,5
+1959,Driver_1959,Chicago,1/3/2021 19:01,5
+1960,Driver_1960,Ottawa,9/1/2022 7:57,4.6
+1961,Driver_1961,Ottawa,2/20/2021 7:18,4.5
+1962,Driver_1962,Chicago,7/25/2023 18:40,4.6
+1963,Driver_1963,L.A,8/8/2023 17:56,4.8
+1964,Driver_1964,Boston,9/21/2023 15:45,4.8
+1965,Driver_1965,Ottawa,6/11/2021 17:30,4.8
+1966,Driver_1966,Vancouver,8/7/2021 11:33,4.5
+1967,Driver_1967,L.A,5/1/2021 20:50,4.4
+1968,Driver_1968,Boston,6/23/2022 18:01,4.4
+1969,Driver_1969,L.A,9/18/2021 19:17,4.4
+1970,Driver_1970,Toronto,11/7/2023 20:19,5
+1971,Driver_1971,L.A,11/25/2022 19:34,4.8
+1972,Driver_1972,New York,2/16/2022 23:50,3
+1973,Driver_1973,Boston,1/23/2022 15:33,4.8
+1974,Driver_1974,Toronto,6/29/2022 10:53,4.6
+1975,Driver_1975,San Francisco,6/17/2021 19:49,4.5
+1976,Driver_1976,New York,3/16/2021 19:04,4.3
+1977,Driver_1977,Montreal,11/12/2022 18:01,5
+1978,Driver_1978,Montreal,9/16/2021 9:32,5
+1979,Driver_1979,Montreal,2/5/2023 23:25,4.1
+1980,Driver_1980,Montreal,6/30/2022 14:50,4.7
+1981,Driver_1981,Calgary,8/7/2022 1:58,4
+1982,Driver_1982,Toronto,1/15/2023 20:39,3.8
+1983,Driver_1983,Ottawa,10/9/2023 5:54,4.2
+1984,Driver_1984,Boston,9/10/2021 16:16,4.9
+1985,Driver_1985,Vancouver,4/25/2021 12:05,5
+1986,Driver_1986,New York,4/4/2022 2:59,4.8
+1987,Driver_1987,New York,5/11/2022 2:37,4.9
+1988,Driver_1988,San Francisco,6/12/2021 16:25,4.8
+1989,Driver_1989,Toronto,6/15/2022 23:32,4.2
+1990,Driver_1990,Chicago,8/7/2022 6:05,4.7
+1991,Driver_1991,Chicago,4/27/2021 12:17,4.9
+1992,Driver_1992,Calgary,5/25/2021 15:11,4.9
+1993,Driver_1993,L.A,7/12/2023 19:03,5
+1994,Driver_1994,Ottawa,1/20/2023 21:43,4.9
+1995,Driver_1995,New York,11/2/2022 0:53,4.7
+1996,Driver_1996,Chicago,8/2/2023 10:26,5
+1997,Driver_1997,Montreal,9/2/2021 1:15,4.5
+1998,Driver_1998,New York,6/7/2021 7:09,4.1
+1999,Driver_1999,L.A,11/16/2021 7:28,4.4
+2000,Driver_2000,Boston,9/28/2022 19:03,4.1
